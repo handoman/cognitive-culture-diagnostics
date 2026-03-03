@@ -57,13 +57,13 @@ Input‑modul
 ### Abilities
 
 - **Flowchart Mind (passiv)**  
-  Alla stimuli omvandlas spontant till logiska system.
+  Många stimuli omvandlas spontant till logiska system.
 
 - **Dual Process Engine**  
-  Två tankespår aktiva samtidigt.
+  Två tankespår kan vara aktiva samtidigt.
 
 - **Affect Encoding**  
-  Känslor lagras som konsekvensfunktioner.
+  Känslor kan lagras som konsekvensfunktioner.
 
 - **Diagnostic Shield**  
   Minskar risken för feltolkning vid rätt intervjuformat.

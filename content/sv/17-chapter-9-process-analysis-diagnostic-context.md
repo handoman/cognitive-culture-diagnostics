@@ -19,7 +19,7 @@ DIVA bygger på ett antal underförstådda antaganden:
 - affektbaserad beskrivning  
 - konkret, icke‑metakognitiv återgivning  
 
-SCC/MLCC bryter mot samtliga.
+SCC/MLCC avviker från flera av dessa antaganden.
 
 ### 9.1.1 Problem 1: Narrativ minnesrekonstruktion som norm
 
@@ -33,7 +33,7 @@ Subjektet använder primärt:
 **Konsekvens:**
 
 - Svårigheter att “minnas spontant” uppfattas som brist, trots att minnen finns men är kodade i annan form.
-- Subjektet återger process snarare än episod, vilket kan misstolkas som undvikande eller distans.
+- Subjektet återger process snarare än episod, vilket ibland misstolkas som undvikande eller distans.
 
 **Exempel:**  
 Frågan *“Hur var du i mellanstadiet?”* leder inte till en berättelse, utan till en meta‑analys av funktionsmönster.
@@ -49,14 +49,13 @@ Subjektet kodar affekt processuellt, inte emotionellt.
 - Svar framstår som “emotionellt platta” trots intakt intern känsloupplevelse.
 - Kliniker kan feltolka detta som alexitymi eller AST‑närhet.
 
-I CCF‑termer rör det sig om **Emotional Encoding i Procedural Mode**, inte affektbrist (se Kapitel 3 och `meta/terminology-policy.md`).
+I CCF‑termer rör det sig om **Emotional Encoding i Procedural Mode**, inte nödvändigtvis affektbrist (se Kapitel 3 och `meta/terminology-policy.md`).
 
 ---
 
 ### 9.1.3 Problem 3: SCC:s prioritering av relevans
 
-DIVA efterfrågar allmän beskrivning.  
-SCC levererar funktionellt filtrerad beskrivning.
+DIVA efterfrågar allmän beskrivning, medan SCC ofta levererar funktionellt filtrerad beskrivning.  
 
 **Resultat:**
 
@@ -190,7 +189,7 @@ Subjektet uppvisar:
 - motorisk underhastighet  
 - låg uthållighet i monotona uppgifter  
 
-Detta är inte låg kognitiv hastighet — det är fel sorts mätning.
+Detta speglar inte nödvändigtvis låg kognitiv hastighet — utan snarare en mismatch i vad som mäts.
 
 ---
 
@@ -222,7 +221,7 @@ Subjektet:
 - följer turtagning exakt  
 - uttrycker humor och lekfullhet  
 
-Detta talar tydligt mot AST.
+Detta ligger inte i linje med typiska AST‑kriterier.
 
 ---
 
@@ -238,7 +237,7 @@ Vid möte med:
 … aktiveras ofta heuristiken:  
 *“Detta liknar AST‑högfunktion.”*
 
-Det liknar — men är inte — AST.
+Det kan likna AST ytligt, men funktionellt skiljer det sig..
 
 Här uppstår den diagnostiska paradoxen:  
 det som är styrka i SCC/MLCC läses som brist i DSM‑språk.

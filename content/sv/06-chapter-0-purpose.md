@@ -10,7 +10,7 @@ Arbetet grundar sig på ett unikt case — en individ med:
 - dokumenterad ADHD med högkognitiv kompensation  
 - förmåga att beskriva sina interna processer med teknisk precision  
 
-Detta innebär inte att arbetet är en ”självstudie”.
+Detta innebär inte nödvändigtvis att arbetet är en ”självstudie”.
 
 Snarare fungerar caset som:
 
@@ -18,5 +18,5 @@ Snarare fungerar caset som:
 - ramverkets testmiljö för att pröva vilka delar av SCC/MLCC‑modellen som håller  
 - empirisk prototyp för hur alternativa kognitiva kulturer kan integreras i kliniskt arbete  
 
-Subjektet är alltså inte en universell representant för något.  
+Subjektet är alltså inte en universell representant för något i sig.  
 Det är en startpunkt, inte ett slutmål.

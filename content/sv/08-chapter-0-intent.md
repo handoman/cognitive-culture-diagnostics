@@ -19,7 +19,7 @@
 Detta är ett professionellt dokument — inte ett självbiografiskt.
 
 Case‑exemplet är närvarande, men aldrig i centrum.  
-Det fungerar som en **klinisk dataset‑simulering**, inte som personlig berättelse.
+Det fungerar som en **klinisk dataset‑simulering** snarare än som personlig berättelse.
 
 ---
 
@@ -31,12 +31,12 @@ Det fungerar som en **klinisk dataset‑simulering**, inte som personlig berätt
 - Ett universellt verktyg som passar alla  
 - En ersättning för klinisk bedömning  
 
-Denna monografi är ett **paradigmkomplement**, inte en paradigmutmanare.
+Denna monografi är ett **paradigmkomplement**, inte nödvändigtvis en paradigmutmanare.
 
-Syftet är inte att ersätta, utan att förklara där nuvarande verktyg blir blinda.
+Syftet är inte att ersätta, utan att förklara där nuvarande verktyg kan bli blinda.
 
 Tänk det som att du inte bygger en ny karta —  
-du lägger till höjdkurvor på en befintlig karta.
+utan lägger till höjdkurvor på en befintlig karta.
 
 ---
 
@@ -53,7 +53,7 @@ All data som utgår från subjektet är:
 - inte generaliserande  
 - avsedd för teoretisk och metodisk illustration  
 
-Detta är inte ett medicinskt utlåtande och ska inte tolkas som ett sådant.
+Detta är inte ett medicinskt utlåtande och bör inte tolkas som ett sådant.
 
 ---
 
@@ -78,7 +78,7 @@ MLCC/SCC är ett tolkningsverktyg för kliniker, inte:
 - ett självskattningsinstrument  
 - en diagnostisk algoritm  
 
-Det ska användas i händerna på utbildad personal, inte av privatpersoner.
+Det bör användas i händerna på utbildad personal, inte av privatpersoner.
 
 ---
 
@@ -86,10 +86,10 @@ Det ska användas i händerna på utbildad personal, inte av privatpersoner.
 
 Vid tveksamhet gäller:
 
-Den vanligaste tolkningen ska aldrig ersättas av en mer avancerad teori  
+Den vanligaste tolkningen bör inte ersättas av en mer avancerad teori  
 om den inte ger högre precision, lägre risk och bättre patientutfall.
 
-Denna monografi ska aldrig användas som ett argument mot etablerade riktlinjer.  
+Denna monografi bör inte användas som ett argument mot etablerade riktlinjer.  
 Den är ett stöd — inte ett undantagstillstånd.
 
 ---
@@ -99,7 +99,7 @@ Den är ett stöd — inte ett undantagstillstånd.
 Detta arbete skrivs inte för att bevisa något om en individ,  
 utan för att belysa något om ett mönster.
 
-Om modellen hjälper ens en enda kliniker att:
+Om modellen kan hjälpa ens en enda kliniker att:
 
 - förstå en patient som tidigare missförstods  
 - undvika en felklassning  
@@ -109,4 +109,4 @@ Om modellen hjälper ens en enda kliniker att:
 …så har projektet uppfyllt sitt syfte.
 
 Detta är en inbjudan till dialog — inte en dom.  
-En början, inte ett slut.
+En början, inte ett slut i sig.

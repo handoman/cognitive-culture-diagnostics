@@ -11,7 +11,7 @@ Systemic Cognitive Culture (SCC) och Meta‑Logical Cognitive Culture (MLCC) rep
 - optimerar dialogen efter relevans och mottagare  
 - kompenserar automatiskt för brister i frågeformatet  
 
-Dessa profiler riskerar att både överskattas (som högfungerande AST) och underskattas (som normativt resonemang), beroende på hur intervjun genomförs.
+Dessa profiler kan riskera att både överskattas (som högfungerande AST) och underskattas (som normativt resonemang), beroende på hur intervjun genomförs.
 
 Det är därför avgörande att psykologen använder ett intervjuformat som:
 
@@ -50,7 +50,7 @@ Frågor bör utformas:
 - “Vad kände du i stunden?”  
 - “Berätta spontant.”  
 
-Dessa frågor aktiverar fel processmodul hos SCC‑subjekt.
+Dessa frågor aktiverar ofta en mindre optimal processmodul hos SCC‑subjekt.
 
 ---
 
@@ -69,7 +69,7 @@ Dessa frågor aktiverar fel processmodul hos SCC‑subjekt.
    Psykologen speglar struktur, inte innehåll:  
    “Så det jag hör är tre steg: A → B → C. Stämmer det?”
 
-SCC‑subjekt responderar mycket väl på strukturell spegling.
+SCC‑subjekt tenderar att respondera väl på strukturell spegling.
 
 ---
 
@@ -92,7 +92,7 @@ De kalibrerar sina svar efter psykologens nivå, inte efter frågans nivå.
 Detta leder ofta till den kliniska missbedömningen:  
 *“Patienten pratar för mycket om sina känslor och för lite från dem.”*
 
-Detta är inte distans — det är **meta‑närhet**.
+Detta behöver inte vara distans — det kan vara en form av **meta‑närhet**.
 
 ---
 
@@ -158,7 +158,7 @@ Ge istället affektparametrar:
 
 ### 11.3.3 Undvik att tolka struktur som rigiditet
 
-Strukturerat språk är kommunikation, inte försvar.
+Strukturerat språk är ofta kommunikation, inte nödvändigtvis försvar.
 
 ---
 
@@ -178,7 +178,7 @@ Säg istället:
 
 ## 11.4 Hur man samlar in data utan att trigga kompensation
 
-SCC/MLCC har kompensation som autonom funktion.  
+SCC/MLCC har kompensation som en ofta automatiserad funktion.  
 Den triggas av:
 
 - otydlighet  
@@ -245,7 +245,7 @@ För att intervjua SCC‑ och MLCC‑profiler krävs:
 - frågor som aktiverar system, inte anekdot  
 - metoder för att temporärt stänga av metaanalys  
 
-SCC/MLCC är inte svårintervjuade — de blir feltolkade när fel verktyg används.
+SCC/MLCC är inte svårintervjuade i sig — men kan bli feltolkade när verktygen inte matchar deras kognitiva stil.
 
 Kliniker som tillämpar detta kapitel:
 

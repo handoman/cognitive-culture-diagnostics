@@ -2,7 +2,7 @@
 
 ## Del III — Applied Case Analysis (Single‑Subject Method)
 
-Kognitiv kultur kan användas som ett första‑linjens filter för att reducera risken att misstolka högkognitiva ADHD‑profiler som autismspektrumtillstånd (AST).
+Kognitiv kultur kan fungera som ett första‑linjens filter för att reducera risken att misstolka högkognitiva ADHD‑profiler som autismspektrumtillstånd (AST).
 
 Detta kapitel beskriver hur ett sådant filter tillämpas i klinisk praxis, illustrerat genom fallmaterial, semistrukturerad kodning och analys av **misalignment‑effekter** i standardiserad screening.
 
@@ -24,7 +24,7 @@ Trots hög funktionell flexibilitet kan:
 
 … tolkas som kognitiv rigiditet, ett centralt AST‑kriterium.
 
-I SCC/MLCC rör det sig dock om **operativ konsekvens**, inte rigiditet.
+I SCC/MLCC rör det sig ofta om **operativ konsekvens** snarare än rigiditet.
 
 ---
 
@@ -81,7 +81,7 @@ Fallet illustrerar hur CCF modifierar tolkningen av:
 - rollskifte efter gruppens behov  
 - förmåga att moderera eller skydda andra  
 
-Dessa datapunkter är inkompatibla med AST:s kärnkriterier.
+Dessa datapunkter ligger inte i linje med AST:s kärnkriterier.
 
 ---
 
@@ -99,11 +99,7 @@ Inom CCF kodas detta som:
 
 **Emotional Encoding → Procedural / Intuitive Mode**
 
-Detta är:
-
-- inte brist  
-- inte AST‑markör  
-- inte alexitymi  
+Detta är inte i sig en brist, och behöver inte vara en AST‑markör eller alexitymi. 
 
 ---
 
@@ -116,7 +112,7 @@ Subjektet:
 - filtrerar information efter systemisk relevans  
 - undviker icke‑funktionellt material  
 
-Detta kan imitera AST‑drag, men är i MLCC en **governance‑funktion**, inte social nedsättning.
+Detta kan imitera AST‑drag, men är i MLCC en **governance‑funktion** snarare än en social nedsättning.
 
 ---
 

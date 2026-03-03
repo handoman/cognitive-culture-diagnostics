@@ -1,6 +1,6 @@
 # Förord
 
-Den här monografin växte fram ur ett behov av att förstå varför vissa kognitiva profiler faller mellan stolarna i dagens neuropsykiatriska modeller.
+Den här monografin växte fram ur ett behov av att förstå varför vissa kognitiva profiler kan falla mellan stolarna i dagens neuropsykiatriska modeller.
 
 Under arbetet med att kartlägga min egen kognition blev det tydligt att traditionella kategorier inte alltid fångar komplexiteten hos systemiska, intuitiva och högkompenserande sätt att tänka.
 

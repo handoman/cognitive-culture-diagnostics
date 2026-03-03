@@ -3,7 +3,7 @@
 
 ## Del III — Applied Case Analysis (Single‑Subject Method)
 
-Neuropsykiatrisk diagnostik behöver inte ersättas — men vissa delar behöver uppgraderas.
+Neuropsykiatrisk diagnostik behöver inte ersättas — men vissa delar kan behöva uppgraderas.
 
 Detta kapitel presenterar **Assessment Design v2.0**, ett förslag på hur screening, intervju, testning och datatolkning kan moderniseras så att kognitiva kulturer (CCF) integreras utan att instrumentens reliabilitet eller diagnostiska ramverk äventyras.
 
@@ -20,7 +20,7 @@ Dagens screeninginstrument (DIVA, ASRS, AQ m.fl.) utgår från normativ kognitio
 - kompensationsmaskerade svårigheter  
 - icke‑representativa svar  
 
-Därför föreslås ett **tvåstegsprotokoll**.
+Därför föreslås här ett **tvåstegsprotokoll**.
 
 ---
 
@@ -59,7 +59,7 @@ Efter CCF‑screeningen väljer psykologen vilket frågeformat som används i hu
 - **MLCC:** forced‑choice + processavgränsning  
 - **Narrativ kultur:** berättarformat + affektorienterat språk  
 
-Detta reducerar feltolkningar redan innan huvudinstrumenten används.
+Detta kan reducera feltolkningar redan innan huvudinstrumenten används.
 
 ---
 
@@ -94,7 +94,7 @@ Ett sätt att identifiera vilken kognitiv modul som var aktiv.
 - “Vilken del av dig tog över kontrollen?”  
 - “Vilket system stängdes av?”
 
-CSS ersätter ineffektiva affektfrågor som “Vad kände du?”.
+CSS kan ersätta mindre effektiva affektfrågor som “Vad kände du?”.
 
 ---
 
@@ -115,7 +115,7 @@ Vid misalignment bör intervjuformatet justeras (se 12.5).
 
 ## 12.3 Spelmetaforer som kognitiv bro
 
-Spelmetaforer är inte gimmicks — de fungerar som lingvistiska broar mellan:
+Spelmetaforer är inte enbart stilgrep — de kan fungera som lingvistiska broar mellan:
 
 - psykologens narrativt‑biografiska paradigm  
 - SCC/MLCC‑subjektets systemiska paradigm  
@@ -165,7 +165,7 @@ Detta:
 3. minskar social förväntan  
 4. öppnar arbetsminnets spontana del  
 
-Detta är exakt varför IDA A1 fungerar väl för SCC/MLCC‑profiler.
+Detta är en av anledningarna till att IDA A1 ofta fungerar väl för SCC/MLCC‑profiler.
 
 ---
 
@@ -217,8 +217,8 @@ Se Verktyg 3.
 
 Assessment Design v2.0 syftar till:
 
-- högre träffsäkerhet  
-- lägre kompensationsgrad  
+- att öka träffsäkerheten  
+- minska kompensationsgrad  
 - större ekologisk validitet  
 - bättre ADHD/AST‑differentiering  
 - mer autentiska data från förbisedda profiler  

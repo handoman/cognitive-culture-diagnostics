@@ -1,21 +1,31 @@
 # Cognitive Culture Diagnostics  
-## Policy Brief
+## Policy Brief v1.1.0
+### Understanding Cognitive Architecture in Neuropsychiatric Assessment
+
+**Författare:** Christian Sandberg
+**Publiceringsår:** 2026
+**Version:** 1.1.0
+**Kontakt:** csandberg.ghcontact@ecosandberg.se
+
+**Relaterad monografi:**
+*Cognitive Culture Diagnostics – A Theoretical and Clinical Framework for Understanding Cognitive Architecture*
+Länk: https://github.com/handoman/cognitive-culture-diagnostics
 
 ---
 
 ## Executive Summary
 
-Neuropsykiatrisk diagnostik vilar i dag på robusta och väl etablerade ramverk, särskilt DSM‑baserade system som möjliggör reliabel klassificering och standardiserad bedömning. Dessa verktyg har hög klinisk nytta och utgör en nödvändig grund för diagnostiskt arbete. Samtidigt finns återkommande kliniska situationer där individer med hög funktion och komplex kognitiv organisation inte passar väl in i de tolkningsmodeller som dessa system implicit förutsätter. Detta arbete adresserar en sådan diagnostisk spänning.
+Neuropsykiatrisk diagnostik vilar i dag på robusta och väl etablerade ramverk, särskilt DSM‑baserade system som möjliggör reliabel klassificering och standardiserad bedömning. Dessa verktyg har hög klinisk nytta och utgör en nödvändig grund för diagnostiskt arbete. Samtidigt finns återkommande kliniska situationer där vissa individer med hög funktion och komplex kognitiv organisation inte passar väl in i de tolkningsmodeller som dessa system implicit förutsätter. Detta arbete adresserar en sådan diagnostisk spänning.
 
 Monografin introducerar **Cognitive Culture Framework (CCF)** som ett deskriptivt tolkningslager för kognitiv arkitektur – placerat mellan neurobiologiska förklaringsnivåer och observerbart beteende. CCF syftar inte till att ersätta befintliga diagnossystem, utan till att komplettera dem genom att synliggöra hur kognition är organiserad, snarare än enbart vad som uttrycks i test‑ och intervjusituationer.
 
-Utgångspunkten är att variation i kognitiv arkitektur – exempelvis systemisk och metalogisk kognition – kan ge upphov till uttrycksformer som avviker från den narrativa och affektivt kodade norm som många diagnostiska instrument är utformade för. När sådana uttryck tolkas utan ett arkitektoniskt tolkningslager uppstår risk för diagnostisk misalignment, där adaptiva processer kan misstolkas som psykopatologi. Detta gäller särskilt i gränslandet mellan ADHD och AST, där hög kognitiv kompensation och processdriven analys kan imitera autistiska ytfenomen utan att motsvara deras etiologi.
+Utgångspunkten är att variation i kognitiv arkitektur – exempelvis systemisk och metalogisk kognition – kan ge upphov till uttrycksformer som avviker från den narrativa och affektivt kodade norm som många diagnostiska instrument är utformade för. När sådana uttryck tolkas utan ett arkitektoniskt tolkningslager kan det uppstå risk för diagnostisk misalignment, där adaptiva processer kan misstolkas som psykopatologi. Detta gäller särskilt i gränslandet mellan ADHD och AST, där hög kognitiv kompensation och processdriven analys kan imitera autistiska ytfenomen utan att motsvara deras etiologi.
 
 Arbetet bygger på en transparent **single‑subject design (Self‑as‑Instrument Design)**, vald för att möjliggöra detaljerad analys av processnivåmekanismer under förhållanden med maximal intern åtkomst. Caset används inte för att etablera generaliserbara fynd, utan för att illustrera hur diagnostisk feltolkning kan uppstå när verktyg och kognitiv arkitektur är inkompatibla. Metoden är explicit avgränsad, icke‑generaliserande och epistemologiskt defensiv.
 
 De huvudsakliga implikationerna är teoretiska och tolkningsmässiga. CCF föreslås som ett sätt att öka ekologisk validitet i diagnostisk förståelse genom att komplettera kategoriska och funktionella bedömningar med en arkitektonisk dimension. Kliniskt pekar analysen mot vikten av att anpassa intervjumetodik och tolkningsramar efter individens kognitiva språk, snarare än att tolka avvikande uttrycksformer som symtom i sig. Forskningsmässigt presenteras CCF som ett öppet program för vidare empirisk prövning på processnivå.
 
-Detta arbete gör inga anspråk på prevalens, kausal neurobiologi eller implementering i klinisk praxis. Dess bidrag ligger i att tydliggöra en hittills underbeskriven tolkningsdimension och i att visa hur diagnostiska modeller, snarare än individer, ibland utgör den begränsande faktorn i neuropsykiatrisk bedömning.
+Detta arbete gör inte anspråk på prevalens, kausal neurobiologi eller implementering i klinisk praxis. Dess bidrag ligger i att tydliggöra en hittills underbeskriven tolkningsdimension och i att visa hur diagnostiska modeller, snarare än individer, ibland utgör den begränsande faktorn i neuropsykiatrisk bedömning.
 
 ---
 
@@ -23,15 +33,15 @@ Detta arbete gör inga anspråk på prevalens, kausal neurobiologi eller impleme
 
 Neuropsykiatrisk diagnostik har under flera decennier utvecklats mot hög reliabilitet genom standardiserade kriterier, strukturerade intervjuer och normerade testinstrument. Denna utveckling har varit avgörande för rättssäkerhet, jämförbarhet och klinisk kvalitet. Samtidigt innebär standardisering alltid ett implicit antagande om vilken typ av kognitivt uttryck som utgör norm för bedömning.
 
-I praktiken är många diagnostiska verktyg utformade för att fånga narrativt organiserad, affektivt kodad och språkligt spontan kognition. För majoriteten av individer är detta en rimlig utgångspunkt. För vissa kognitiva profiler – särskilt sådana med systemisk, procedurorienterad eller metalogisk arkitektur – kan samma antagande dock leda till systematisk feltolkning.
+I praktiken är många diagnostiska verktyg utformade för att fånga narrativt organiserad, affektivt kodad och språkligt spontan kognition. För majoriteten av individer är detta en rimlig utgångspunkt. För vissa kognitiva profiler – särskilt sådana med systemisk, procedurorienterad eller metalogisk arkitektur – kan samma antagande leda till systematisk feltolkning.
 
 Denna spänning kan beskrivas som **diagnostisk misalignment**: ett tillstånd där individens faktiska kognitiva funktion inte överensstämmer med den tolkningsmodell som används för att bedöma den. Misalignment uppstår inte därför att individen saknar funktion, utan därför att uttrycksformen inte är kompatibel med instrumentets semantiska och processuella förväntningar.
 
 Ett centralt exempel är gränslandet mellan ADHD och AST i vuxenutredningar. Individer med hög kognitiv kompensation, stark analytisk förmåga och låg spontan narrativitet kan i strukturerade intervjuer framstå som rigida, affektivt avvikande eller socialt distanserade. När dessa uttryck tolkas utan hänsyn till underliggande kognitiv arkitektur finns en risk att adaptiva processer felaktigt förstås som autistiska drag, trots att de etiologiska kriterierna inte är uppfyllda.
 
-Problemet är därmed inte bristande klinisk kompetens eller felaktig användning av etablerade system. Det är ett strukturellt tolkningsproblem som uppstår när reliabilitet prioriteras utan motsvarande uppmärksamhet på ekologisk validitet. Ett instrument kan vara internt konsistent och samtidigt missa centrala aspekter av individens faktiska kognitiva organisation.
+Problemet är därmed inte bristande klinisk kompetens eller felaktig användning av etablerade system. Det är ett strukturellt tolkningsproblem som kan uppstå när reliabilitet prioriteras utan motsvarande uppmärksamhet på ekologisk validitet. Ett instrument kan vara internt konsistent och samtidigt missa centrala aspekter av individens faktiska kognitiva organisation.
 
-Diagnostisk misalignment får flera konsekvenser. På individnivå kan den leda till felaktiga hypoteser, otydliga bedömningar och suboptimal behandlingsinriktning. På systemnivå riskerar den att reproducera snedvridningar där vissa kognitiva kulturer systematiskt missförstås eller patologiseras. På forskningsnivå begränsar den möjligheten att identifiera och studera variation i kognitiv arkitektur som en självständig analytisk dimension.
+Diagnostisk misalignment kan få flera konsekvenser. På individnivå kan den leda till felaktiga hypoteser, otydliga bedömningar och suboptimal behandlingsinriktning. På systemnivå riskerar den att reproducera snedvridningar där vissa kognitiva kulturer systematiskt missförstås eller patologiseras. På forskningsnivå begränsar den möjligheten att identifiera och studera variation i kognitiv arkitektur som en självständig analytisk dimension.
 
 Det är denna typ av misalignment som **Cognitive Culture Framework** adresserar. Inte genom att ifrågasätta befintliga diagnossystem, utan genom att synliggöra ett tolkningslager som i dag ofta förblir implicit – och därmed osynligt i både klinisk praktik och forskning.
 
@@ -41,7 +51,7 @@ Det är denna typ av misalignment som **Cognitive Culture Framework** adresserar
 
 **Cognitive Culture Framework (CCF)** introduceras i detta arbete som ett deskriptivt ramverk för att synliggöra variation i kognitiv arkitektur som i dag ofta förblir implicit i neuropsykiatrisk bedömning. Ramverket är inte avsett att ersätta etablerade diagnossystem eller funktionella bedömningsmodeller, utan att komplettera dem genom att tillföra ett mellanliggande tolkningslager mellan symtombeskrivning och klinisk tolkning.
 
-Utgångspunkten för CCF är att kognition inte enbart varierar i innehåll eller intensitet, utan även i struktur, process och representational logik. Dessa variationer formar hur individer uppfattar, bearbetar och uttrycker information – och därmed hur de interagerar med diagnostiska instrument. När sådana strukturella skillnader inte beaktas riskerar bedömningen att fokusera på uttrycksform snarare än underliggande funktion.
+Utgångspunkten för CCF är att kognition inte enbart varierar i innehåll eller intensitet, utan även i struktur, process och representational logik. Dessa variationer formar hur individer uppfattar, bearbetar och uttrycker information – och därmed hur de interagerar med diagnostiska instrument. När sådana strukturella skillnader inte beaktas kan bedömningen fokusera på uttrycksform snarare än underliggande funktion.
 
 CCF beskriver kognitiv kultur som ett mönster av återkommande arkitektoniska drag, snarare än som en typologi eller personlighetskategori. Ramverket fokuserar på hur kognition organiseras och regleras, inte på vem individen är eller vilka diagnoser som kan vara aktuella. I denna mening är kognitiv kultur en analytisk dimension, inte en klinisk etikett.
 
@@ -56,7 +66,7 @@ Dessa axlar är avsedda som analytiska verktyg snarare än fasta kategorier. De 
 
 Inom ramen för detta arbete används begreppen **Systemic Cognitive Culture (SCC)** och **Meta‑Logical Cognitive Culture (MLCC)** som illustrativa exempel på kognitiva arkitekturer där process‑ och systemorienterad bearbetning dominerar över narrativ och affektiv kodning. Dessa begrepp är inte avsedda som diagnoser eller subtyper, utan som analytiska beskrivningar av återkommande mönster som kan ha diagnostisk relevans när de möter standardiserade bedömningsverktyg.
 
-Genom att göra kognitiv arkitektur explicit möjliggör CCF en mer ekologiskt valid tolkning av diagnostiska data. Ramverket erbjuder därmed ett sätt att förstå varför vissa individer systematiskt missförstås i utredningssammanhang, utan att detta behöver tolkas som bristande funktion eller avvikelse i sig. I stället flyttas fokus till relationen mellan individens kognitiva kultur och de verktyg som används för att bedöma den.
+Genom att göra kognitiv arkitektur explicit kan CCF möjliggöra en mer ekologiskt valid tolkning av diagnostiska data. Ramverket erbjuder därmed ett sätt att förstå varför vissa individer systematiskt missförstås i utredningssammanhang, utan att detta behöver tolkas som bristande funktion eller avvikelse i sig. I stället flyttas fokus till relationen mellan individens kognitiva kultur och de verktyg som används för att bedöma den.
 
 ---
 
@@ -70,11 +80,11 @@ I det aktuella caset möjliggör den höga graden av metakognitiv tillgång och 
 
 Caset visar hur samma underliggande kognitiva arkitektur kan generera olika kliniska intryck beroende på vilket tolkningsramverk som används. I intervjuer och tester vars format är kompatibelt med individens kognitiva språk framträder funktion, koherens och adaptiv reglering. I sammanhang där formatet är inkompatibelt uppstår i stället fragmentering, överkompensation eller ytfenomen som riskerar att tolkas som psykopatologi.
 
-Det centrala bidraget från caset ligger således inte i individens specifika profil, utan i den relationella analysen mellan kognitiv kultur och diagnostiskt verktyg. Genom att hålla individens arkitektur konstant och variera tolkningskontexten blir det möjligt att synliggöra mekanismer för diagnostisk misalignment som annars förblir dolda.
+Det centrala bidraget från caset ligger inte i individens specifika profil, utan i den relationella analysen mellan kognitiv kultur och diagnostiskt verktyg. Genom att hålla individens arkitektur konstant och variera tolkningskontexten blir det möjligt att synliggöra mekanismer för diagnostisk misalignment som annars förblir dolda.
 
 Caset används därför som ett analytiskt instrument för att pröva CCF:s tolkningslogik, inte som ett exempel som ska representera andra individer med liknande uttrycksformer. De mönster som identifieras är hypotetiska och explorativa, och deras relevans för andra sammanhang måste prövas genom vidare forskning på processnivå.
 
-I denna mening fungerar caset som ett epistemologiskt fönster snarare än som empiriskt bevis. Det visar hur och varför vissa kognitiva kulturer riskerar att missförstås i standardiserade utredningssammanhang, utan att göra anspråk på att detta sker universellt eller systematiskt i alla fall.
+I denna mening kan caset fungera som ett epistemologiskt fönster snarare än som empiriskt bevis. Det visar hur och varför vissa kognitiva kulturer riskerar att missförstås i standardiserade utredningssammanhang, utan att göra anspråk på att detta sker universellt eller systematiskt i alla fall.
 
 ---
 
@@ -86,13 +96,13 @@ De kliniska implikationer som följer av denna analys är i första hand tolknin
 
 Analysen visar hur vissa kognitiva arkitekturer kan generera uttrycksformer som i standardiserade intervjuer och observationer liknar autistiska ytfenomen, trots att de underliggande mekanismerna är annorlunda. Hög logikdensitet, låg spontan narrativitet och processdriven analys kan i sådana sammanhang tolkas som rigiditet, affektiv avvikelse eller social distans.
 
-Genom att beakta kognitiv kultur som tolkningsdimension blir det möjligt att skilja mellan uttrycksform och etiologi. Detta kan minska risken för att adaptiva kompensationsstrategier eller arkitektoniska särdrag felaktigt förstås som kliniska symtom.
+Genom att beakta kognitiv kultur som tolkningsdimension blir det lättare att skilja mellan uttrycksform och etiologi. Detta kan minska risken för att adaptiva kompensationsstrategier eller arkitektoniska särdrag felaktigt förstås som kliniska symtom.
 
 ### 5.2 Förfinad förståelse av högkognitiv ADHD‑kompensation
 
 I caset framträder en profil där exekutiv dysfunktion samexisterar med avancerad kognitiv kompensation. Sådana profiler kan i vissa instrument framstå som högfungerande eller inkonsekventa, beroende på hur väl instrumentets format matchar individens kognitiva språk.
 
-CCF möjliggör en mer nyanserad tolkning av dessa mönster genom att synliggöra hur kompensation inte nödvändigtvis maskerar svårigheter, utan kan vara en konsekvens av arkitektur. Detta kan bidra till att förstå varför vissa individer uppvisar tydlig funktionsnedsättning i vardagen samtidigt som de presterar väl i strukturerade testsituationer.
+CCF kan möjliggöra en mer nyanserad tolkning av dessa mönster genom att synliggöra hur kompensation inte nödvändigtvis maskerar svårigheter, utan kan vara en konsekvens av arkitektur. Detta kan bidra till att förstå varför vissa individer uppvisar tydlig funktionsnedsättning i vardagen samtidigt som de presterar väl i strukturerade testsituationer.
 
 ### 5.3 Betydelsen av intervjumatchning för datakvalitet
 
@@ -182,11 +192,11 @@ Författaren tar ansvar för att tydligt avgränsa ramverkets syfte och räckvid
 
 ### 7.4 Epistemologiskt ansvar
 
-Genom att synliggöra kognitiv arkitektur som analytisk dimension aktualiserar detta arbete frågor om hur variation förstås och värderas inom psykologin. Ramverket gör inga anspråk på att lösa dessa frågor, utan erbjuder ett språk för att formulera dem mer precist.
+Genom att synliggöra kognitiv arkitektur som analytisk dimension aktualiserar detta arbete frågor om hur variation förstås och värderas inom psykologin. Ramverket gör inte anspråk på att lösa dessa frågor, utan erbjuder ett språk för att formulera dem mer precist.
 
 Det centrala ansvaret i detta arbete ligger i att:
 
-- inte patologisera variation  
+- undvika att patologisera variation  
 - inte övergeneralisera från enskilda fall  
 - inte ersätta komplexitet med förenkling  
 

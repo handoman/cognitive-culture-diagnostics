@@ -2,10 +2,10 @@
 
 Under en pågående neuropsykiatrisk utredning framkom en återkommande paradox:
 
-Standardiserade instrument är optimerade för normativ kognition —  
-just därför kan de missa, misstolka eller övergeneralisera hos personer som tänker annorlunda.
+Standardiserade instrument är ofta optimerade för normativ kognition —  
+och kan därför ibland missa, misstolka eller övergeneralisera hos personer som tänker annorlunda.
 
-Här föddes en central fråga:
+Här väcktes en central fråga:
 
 Kan vi bygga ett kompletterande ramverk som:
 
@@ -21,6 +21,6 @@ Detta arbete är ett försök att:
 - visa var standardverktyg riskerar feltolkning  
 - skapa en väg för kliniker att intervjua, tolka och förstå dessa profiler med högre precision  
 
-Projektet finns därför att gapet mellan individens faktiska funktion och psykologins verktyg ibland blir onödigt stort.
+Projektet finns därför att gapet mellan individens faktiska funktion och psykologins verktyg ibland kan bli onödigt stort.
 
 Målet är att minska detta gap — inte genom kritik, utan genom konstruktiv expansion.

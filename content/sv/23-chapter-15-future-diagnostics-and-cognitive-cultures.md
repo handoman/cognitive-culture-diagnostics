@@ -5,7 +5,7 @@
 
 Neuropsykiatrisk diagnostik befinner sig vid ett strukturellt vägskäl. Trots förbättrade evidensmodeller, fördjupad neurobiologi och ökad acceptans för neurodiversitet kvarstår en blind zon: variationer i **kognitiv processarkitektur**.
 
-Cognitive Culture Framework (CCF) är inte enbart ett teoretiskt tillskott — det är en logisk förutsättning för nästa generations diagnostiska system.
+Cognitive Culture Framework (CCF) är inte enbart ett teoretiskt tillskott — det kan bli en logisk förutsättning för nästa generations diagnostiska system.
 
 Detta kapitel skisserar hur prediktiva modeller, AI‑baserad analys och adaptiva verktyg kan integrera kognitiva kulturer som en ny dimension i klinisk praxis. Fokus ligger på **konkret utveckling** mellan 2025 och 2040, inte på teknikens möjligheter i abstrakt form.
 
@@ -16,7 +16,7 @@ Detta kapitel skisserar hur prediktiva modeller, AI‑baserad analys och adaptiv
 ### 15.1.1 Diagnostik som rörligt system
 
 Traditionell diagnostik bygger på kategorier med fasta kriterier.  
-Prediktiv diagnostik bygger istället på:
+Prediktiv diagnostik bygger i högre grad på:
 
 - sannolikhetsmatriser  
 - kontinuerliga dimensioner  
@@ -42,7 +42,7 @@ Prediktiva modeller möjliggör distinktion mellan ytligt liknande uttryck och u
 | Emotionell distans | Analytisk språkning |
 | Narrativ svaghet | Processprioritering |
 
-Den statistiska styrkan i sådana modeller gör det möjligt att:
+Den statistiska styrkan i sådana modeller kan göra det möjligt att:
 
 - minska falska AST‑positiv  
 - identifiera atypiska ADHD‑subtyper  
@@ -61,7 +61,7 @@ AI‑baserade system kan:
 - klassificera processarkitektur  
 - upptäcka kompensatorisk logik i realtid  
 
-AI ska däremot inte:
+AI bör däremot inte:
 
 - fatta kliniska beslut  
 - ersätta psykologer  
@@ -102,7 +102,7 @@ De förutsätter:
 - narrativ direktåtergivning  
 - sensoriskt minnesdriven introspektion  
 
-Framtida verktyg behöver:
+Framtida verktyg kan behöva:
 
 - anpassa frågetyp efter kognitiv kultur  
 - variera format dynamiskt  
@@ -175,5 +175,4 @@ Neuropsykiatrin rör sig mot en framtid där:
 - AI förstärker kliniskt omdöme utan att ersätta det  
 - verktyg anpassas efter individens kognitiva kultur  
 
-Kognitiva kulturer är inte en trend.  
-De är en **epistemologisk nödvändighet** för att diagnostiken ska bli rättvis, precis och hållbar i ett samhälle där kognitiv variation är normen.
+Kognitiva kulturer är inte en trend, utan kan vara en **epistemologisk nödvändighet** för att diagnostiken ska bli rättvis, precis och hållbar i ett samhälle där kognitiv variation är normen.

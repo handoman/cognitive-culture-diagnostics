@@ -2,7 +2,7 @@
 
 ## Del IV — Teoretisk syntes och metodologisk operationalisering
 
-Detta kapitel beskriver en forskningsdesign för att studera, validera och vidareutveckla Cognitive Culture Framework (CCF) som diagnostisk och analytisk dimension.
+Detta kapitel beskriver en möjlig forskningsdesign för att studera, validera och vidareutveckla Cognitive Culture Framework (CCF) som diagnostisk och analytisk dimension.
 
 Till skillnad från traditionell neuropsykiatrisk forskning betraktas här individens kognitiva kultur inte som brus eller bias — utan som **en primär analytisk variabel**.
 
@@ -16,9 +16,9 @@ Forskningsdesignen vilar på tre övergripande principer.
 
 I CCF‑baserad forskning är subjektets kognitiva arkitektur:
 
-- inte något som ska kontrolleras bort  
+- inte något som behöver kontrolleras bort  
 - inte ett metodologiskt problem  
-- utan själva forskningsobjektet  
+- utan kan vara själva forskningsobjektet  
 
 Detta kräver explicit redovisning av:
 
@@ -39,7 +39,7 @@ Det som mäts måste uttryckas i individens **naturliga språk för tanke**, exe
 - proceduralt  
 - metalogiskt  
 
-Mätinstrument som kräver översättning till ett främmande kognitivt språk riskerar systematisk datadegradering.
+Mätinstrument som kräver översättning till ett främmande kognitivt språk kan riskera systematisk datadegradering.
 
 ---
 
@@ -131,7 +131,7 @@ Exempel: skillnader mellan DIVA‑ och IDA‑interaktion.
 
 Subjektets egna beskrivningar av sina processer.
 
-I MLCC‑profiler utgör detta en **högvalid datakälla**, inte sekundär självrapport.
+I MLCC‑profiler kan detta utgöra en **högvalid datakälla**, inte enbart sekundär självrapport.
 
 ---
 
@@ -161,7 +161,7 @@ Föreslagen **mixed‑method‑design**.
 - semantisk klusteranalys  
 - representational‑style indexing  
 
-Syftet är att identifiera stabila mönster över individer utan att reducera dem till kategorier.
+Syftet är att identifiera stabila mönster över individer utan att nödvändigtvis reducera dem till kategorier.
 
 ---
 
@@ -188,4 +188,4 @@ Cognitive Culture Diagnostics kräver en forskningsdesign som:
 - tillåter variation utan patologisering  
 - kombinerar kvalitativ djupanalys med kvantitativ struktur  
 
-Detta kapitel utgör en möjlig grund för framtida empirisk validering av CCF.
+Detta kapitel kan utgöra en möjlig grund för framtida empirisk validering av CCF.

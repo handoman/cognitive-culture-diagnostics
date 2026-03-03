@@ -25,7 +25,7 @@ Detta kapitel förutsätter förståelse för Cognitive Culture Framework (Kapit
 
 Psykologiska instrument är byggda för att identifiera avvikelser från normativ kognition.
 
-SCC och MLCC är dock inte avvikelser — de är **alternativa kognitiva operativsystem**.
+SCC och MLCC är inte avvikelser, utan kan förstås som **alternativa kognitiva operativsystem**.
 
 Förväxlingen uppstår av tre huvudsakliga skäl:
 
@@ -43,7 +43,7 @@ Förväxlingen uppstår av tre huvudsakliga skäl:
    - vid osäkerhet följs manualen  
    - AST blir default‑spår  
 
-Trots liknande output skiljer sig profilerna fundamentalt i:
+Trots liknande output kan profilerna skilja sig betydligt i:
 
 - motivation  
 - social funktion  
@@ -51,7 +51,7 @@ Trots liknande output skiljer sig profilerna fundamentalt i:
 - kontextläsning  
 - emotionell arkitektur  
 
-Därför krävs en dedikerad, systematisk differentieringsmodell.
+Därför kan en dedikerad, systematisk differentieringsmodell vara värdefull.
 
 ---
 
@@ -85,7 +85,7 @@ Följande är de sex vanligaste kliniska misstagen.
 
 ### 1. “Logiskt språk = AST”
 
-Falskt.
+Det stämmer inte generellt.
 
 Logisk uttrycksform kan vara:
 - **AST:** specialintresse  
@@ -103,7 +103,7 @@ Affekt kan reduceras av olika orsaker:
 - **SCC:** känslor behandlas som processvariabler  
 - **MLCC:** metakognitiv filtrering före uttryck  
 
-Ytligt likt — mekaniskt helt olika.
+Ytligt likt — men mekaniskt ofta olika.
 
 ---
 
@@ -212,7 +212,7 @@ AST, SCC och MLCC kan ge liknande klinisk output men skiljer sig fundamentalt i:
 - adaptivitet  
 - emotionell mekanik  
 
-SCC och MLCC är inte AST‑liknande tillstånd.  
+SCC och MLCC är inte AST-tillstånd, även om vissa uttryck kan likna AST ytligt.  
 De är kognitiva kulturer som DSM aldrig lärde sig identifiera.
 
 Differentiation Matrix möjliggör för kliniker att:

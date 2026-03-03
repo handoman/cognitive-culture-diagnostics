@@ -12,7 +12,7 @@
 
 ## Fallgrop 2: “Affektfattighet”
 
-- AST: svårighet att läsa eller visa affekt  
+- AST: kan innebära svårigheter att läsa eller visa affekt  
 - SCC: affekt uttrycks som analys  
 
 ---
@@ -20,7 +20,7 @@
 ## Fallgrop 3: “Svårt med spontant narrativ”
 
 - AST: självbiografiska minnessvårigheter  
-- SCC/MLCC: narrativ är sekundärt språk  
+- SCC/MLCC: narrativ är ofta ett sekundärt språk  
 
 ---
 
@@ -33,4 +33,4 @@
 
 ## Fallgrop 5: “Intellektualisering”
 
-Affekt kodad via analys misstolkas som undvikande.
+Affekt som kodas via analys kan ibland misstolkas som undvikande.

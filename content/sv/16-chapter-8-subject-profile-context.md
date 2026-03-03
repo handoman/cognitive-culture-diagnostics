@@ -82,7 +82,7 @@ Dessa formuleringar är klassiska för dopaminberoende igångsättning, men ovan
 
 ## 8.3 Social funktion
 
-Subjektets sociala funktion är intakt och i vissa avseenden överintakt jämfört med typiska kliniska NP‑profiler.
+Subjektets sociala funktion framstår som intakt och i vissa avseenden överintakt jämfört med typiska kliniska NP‑profiler.
 
 ### 8.3.1 Social perception
 
@@ -94,7 +94,7 @@ Subjektets sociala funktion är intakt och i vissa avseenden överintakt jämfö
 - förmåga att anpassa sig till rätt “nivå” i socialt rum  
 - konfliktlösning via dominanshantering och skyddsstrategier  
 
-Detta motsäger centrala AST‑kriterier.
+Detta ligger inte i linje med centrala AST‑kriterier.
 
 ### 8.3.2 Social intention
 
@@ -105,7 +105,7 @@ Subjektet beskriver:
 - inget intresse av narrativ delning om det inte är funktionellt  
 - spontan delning endast när mottagaren kan gynnas  
 
-Detta är en SCC/MLCC‑typisk motivationsprofil, inte en social funktionsnedsättning.
+Detta är en SCC/MLCC‑typisk motivationsprofil, inte nödvändigtvis en social funktionsnedsättning.
 
 ### 8.3.3 Social strategi
 
@@ -115,7 +115,7 @@ Subjektet använder:
 - intuition som affektiv kompass  
 - exakt avläsning av när andra är öppna, stängda eller vokalt överlastade  
 
-Detta utgör en avancerad social algoritm — inte ett autistiskt socialt mönster.
+Detta kan förstås som en avancerad social algoritm, inte ett autistiskt socialt mönster.
 
 ---
 
@@ -181,7 +181,7 @@ Journaldata hittills visar:
 - **Naturligt socialt flöde**  
   (turtagning, intoning, blick, humor, korrekt mikrotolkning)
 
-- **Avsaknad av typiska AST‑markörer**  
+- **Inga tydliga AST‑markörer**  
   (ingen rigiditet, inga begränsande intressen, intakt Theory of Mind)
 
 - **Processuellt känslouttryck**  
@@ -207,6 +207,6 @@ Subjektets neurokognitiva profil består av:
 - Avancerad och stabil kompensation  
 - Minimal AST‑konvergens trots ytliga likhetsytor  
 
-Ett sådant subjekt representerar inte en diagnosgrupp — utan en **kognitiv kultur**.
+Ett sådant subjekt representerar inte en diagnosgrupp, utan snarare en **kognitiv kultur**.
 
 Det är därför single‑subject‑metod och CCF är nödvändiga för att förstå denna typ av profil.

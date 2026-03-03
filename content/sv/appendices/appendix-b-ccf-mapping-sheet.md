@@ -1,7 +1,7 @@
 # Bilaga B. Kartläggningsmall  
 *CCF‑Sheet*
 
-En klinisk arbetsmall för screening eller fördjupad bedömning.
+En klinisk arbetsmall för screening eller fördjupad bedömning i relevanta fall.
 
 ---
 
@@ -64,7 +64,7 @@ Primära styrsystem (rangordna 1–3):
 
 ## 5. Diagnostiska implikationer
 
-### Risk för AST‑felbedömning
+### Möjlig risk för AST‑felbedömning
 
 - ☐ Låg narrativitet  
 - ☐ Hög processkonsekvens  
@@ -72,13 +72,13 @@ Primära styrsystem (rangordna 1–3):
 - ☐ Systemstyrd respons  
 - ☐ “Rigiditet” = operativ konsekvens  
 
-### Indikation för SCC
+### Möjlig indikation för SCC
 
 - ☐ Flödesschema‑tänkande spontant  
 - ☐ IF/THEN‑resonemang i känslogenomgång  
 - ☐ Livshändelser återges som system  
 
-### Indikation för MLCC
+### Möjlig indikation för MLCC
 
 - ☐ Metakognitivt språk  
 - ☐ Dubbla tankelinjer  

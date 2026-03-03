@@ -4,7 +4,7 @@
 
 Cognitive Culture Framework (CCF) är en strukturerad modell för att beskriva hur individer representerar, bearbetar, kodar och styr sin kognition. I motsats till traditionella NP‑modeller, som fokuserar på symtom och funktionsavvikelse, kartlägger CCF den kognitiva infrastrukturen — det underliggande systemet som genererar beteenden, svar och strategier.
 
-CCF är inte en ersättning för DSM‑baserad diagnostik. Det är ett vertikalt lager som kompletterar befintliga instrument och hjälper kliniker att:
+CCF är inte avsett att ersätta DSM‑baserad diagnostik. Det är ett vertikalt lager som kompletterar befintliga instrument och hjälper kliniker att:
 
 - skilja form från funktion
 - urskilja kompensation från primär svårighet
@@ -19,7 +19,7 @@ CCF är inte en ersättning för DSM‑baserad diagnostik. Det är ett vertikalt
 
 Hur individen organiserar tankar, minnen, känslor och upplevelser internt.
 
-RM beskriver individens “mentala språk”. Fyra primära modaliteter förekommer:
+RM beskriver individens typiska “mentala språk”. Fyra primära modaliteter förekommer:
 
 1. **Narrativ modalitet** – händelser organiseras som berättelser, tidslinjer, känsloburna sekvenser.
 2. **Logisk modalitet** – information organiseras som regler, beroendekedjor, villkorssatser.
@@ -40,7 +40,7 @@ Intervjuaren frågar: ”Hur kändes det när du blev överväldigad?”
 - **Logisk RM:** ”Jag identifierade ett överbelastningstillstånd.”
 - **Procedural RM:** ”Bufferten var full. Systemet tappade throughput.”
 
-Alla är känslouttryck — men endast det första matchar den kulturellt förväntade versionen.
+Alla är känslouttryck — men endast det första matchar den kulturellt förväntade versionen i många sammanhang.
 
 ---
 
@@ -65,7 +65,7 @@ PA beskriver flödet, inte innehållet. Fyra huvudaspekter kartläggs:
 
 #### Klinisk relevans
 
-Misstolkningar sker när utredaren ser output, inte arkitektur.
+Misstolkningar kan uppstå när utredaren främst ser output och inte arkitektur.
 
 Exempel: En individ med dopaminberoende exekutiv arkitektur kan sänka tempot till nästan noll när motivation saknas — utan att exekutiva funktioner i egentlig mening är ”låga”.
 
@@ -74,7 +74,7 @@ Exempel: En individ med dopaminberoende exekutiv arkitektur kan sänka tempot ti
 - WAIS‑kodning → långsam, p.g.a. behov av perfektion i varje mikrodel.
 - WAIS‑arbetsminne → högt, p.g.a. sofistikerad kompensationsstrategi.
 
-Det ser ut som AST → men etiologin är ADHD + hög kompensation.
+Det kan se ut som AST → men etiologin kan i vissa fall vara ADHD + hög kompensation.
 
 ---
 
@@ -98,7 +98,7 @@ Analytisk eller intuitiv encoding misstolkas ofta som:
 - brist på empati
 - social distans
 
-Men dessa är stil, inte symtom.
+Men dessa uttryck speglar ofta stil snarare än symtom.
 
 #### Kliniskt exempel
 

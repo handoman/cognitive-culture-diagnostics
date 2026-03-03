@@ -5,9 +5,9 @@
 
 ## Gör
 
-- Ställ frågor i sekvens, inte i abstrakta hopp.  
+- Ställ gärna frågor i sekvens snarare än i abstrakta hopp.  
 - Använd konkret kontext innan affektfrågor.  
-- Tillåt processbeskrivningar före känslobeskrivningar.  
+- Tillåt gärna processbeskrivningar före känslobeskrivningar.  
 - Spegla individens eget språk (logik, system, process).  
 - Ge 10–20 sekunders semantisk uppvärmning.
 
@@ -25,13 +25,13 @@
 ## Tolkningstips
 
 - “Jag vet inte” = ofta behov av mer kontext.  
-- Neutral affekt = affekt kodad i analys.  
-- Djup introspektion = autentiskt material.
+- Neutral affekt kan innebära att affekt är kodad i analys.  
+- Djup introspektion kan ofta ge autentiskt material.
 
 ---
 
 ## Riskzoner
 
 - WAIS narrativdelar kan undervärdera kapacitet.  
-- DIVA kan ge falska utslag vid semantisk mismatch.  
+- DIVA kan ge mindre tillförlitliga utslag vid semantisk mismatch.  
 - IDA ger ofta högst validitet vid SCC/MLCC.

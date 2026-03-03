@@ -1,7 +1,7 @@
 # Kapitel 16. Sammanfattning: Vad detta case illustrerar  
 *Teoretiska, kliniska, forskningsmässiga och samhälleliga implikationer*
 
-Detta arbete har presenterat Cognitive Culture Framework (CCF) som ett strukturerat försök att beskriva något som hittills saknats i psykologisk diagnostik: **kognitiv arkitektur som intermediär nivå mellan neurobiologi och beteende**.
+Detta arbete presenterar Cognitive Culture Framework (CCF) som ett strukturerat försök att beskriva något som hittills ofta saknats i psykologisk diagnostik: **kognitiv arkitektur som intermediär nivå mellan neurobiologi och beteende**.
 
 Genom ett detaljrikt, transparent och metodologiskt omsorgsfullt enskilt fall — baserat på *self‑as‑instrument design* — har det blivit möjligt att synliggöra, inom ramen för detta enskilda fall, vad som sker när etablerade diagnostiska verktyg möter en individ vars kognitiva stil inte är förenlig med det implicita normsystem dessa verktyg bygger på.
 
@@ -24,7 +24,7 @@ Detta fall visar hur en systemisk och metalogisk kognitionsstil kan:
 
 ---
 
-### 2. DSM‑baserad diagnostik saknar i sin nuvarande form en mellanliggande nivå
+### 2. DSM‑baserad diagnostik saknar i sin nuvarande form en tydligt definierad mellanliggande nivå
 
 DSM är effektivt för kategorisering och symtombeskrivning, men saknar en explicit **processdimension**.
 
@@ -40,13 +40,13 @@ Detta fall visar att:
 - de har andra sätt att tänka som råkar likna AST‑uttryck  
 - den underliggande mekanismen är fundamentalt annorlunda  
 
-Kompensation är här inte ett försvarsbeteende, utan en konsekvens av kognitiv arkitektur.
+Kompensation är här inte nödvändigtvis ett försvarsbeteende, utan kan vara en konsekvens av kognitiv arkitektur.
 
 ---
 
 ### 4. Systemisk och metalogisk kognition kan inte reduceras till patologiska varianter
 
-SCC och MLCC är inte avvikelser från norm — de är **kognitiva kulturer**, lika legitima som narrativ, affektiv eller spatial kognition.
+SCC och MLCC är inte avvikelser från norm, utan kan förstås som **kognitiva kulturer**, lika legitima som narrativ, affektiv eller spatial kognition.
 
 ---
 
@@ -87,8 +87,7 @@ En SCC‑profil kan framstå som rigid därför att logiken är konsekvent — i
 
 I MLCC‑profiler lagras känslor som **processkonsekvenser** snarare än emotionella narrativ.
 
-Detta är inte alexitymi.  
-Det är ett annat språk.
+Detta är inte nödvändigtvis alexitymi — det kan vara ett annat språk.
 
 ---
 
@@ -212,6 +211,6 @@ Kognitiva kulturer uppmanar psykologin att:
 
 ## Avslutande reflektion
 
-Detta fall visar att när diagnostiken möter en kognitiv kultur den inte är byggd för, är det inte individen som faller mellan stolarna — **det är modellen**.
+Detta fall visar att när diagnostiken möter en kognitiv kultur den inte är byggd för, riskerar **modellen** snarare än **individen** att bli otillräcklig.
 
 Cognitive Culture Framework är ett första steg mot en mer rättvis, precis och epistemologiskt hållbar neuropsykiatri.

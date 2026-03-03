@@ -20,8 +20,8 @@ Begreppet avser **arkitektur**, inte beteende.
 Två individer kan uppvisa liknande beteenden men använda helt olika kognitiva kulturer för att producera dem. På samma sätt kan två personer med samma diagnos ha fundamentalt olika kognitiva kulturer.
 
 Kognitiv kultur är:
-- stabil över tid  
-- situationsoberoende  
+- typiskt stabil över tid  
+- relativt situationsoberoende  
 - inte i sig patologisk  
 
 Den fungerar som individens **kognitiva modersmål**.
@@ -40,7 +40,7 @@ En patient ombeds beskriva *”hur en typisk arbetsdag känns”*.
 Systembeskrivningen tolkas som distans eller brist på känslofärgning → felaktig AST‑indikation.
 
 **Med MLCC förstår klinikern:**  
-Detta är inte känslokyla — det är individens kognitiva modersmål.
+Detta är inte nödvändigtvis känslokyla — det är individens kognitiva modersmål.
 
 ---
 
@@ -73,13 +73,13 @@ I MLCC‑termer är detta dock:
 
 ## 2.3 Jämförelser med etablerade teorier
 
-MLCC ersätter inte befintliga teorier, utan fungerar som ett **tolkningslager** ovanpå dem.
+MLCC är inte avsett att ersätta befintliga teorier, utan fungerar som ett **tolkningslager** ovanpå dem.
 
 ---
 
 ### 2.3.1 Neurotypisk varians
 
-Kognitiva kulturer förekommer även hos individer utan neuropsykiatriska diagnoser.
+Kognitiva kulturer kan förekomma även hos individer utan neuropsykiatriska diagnoser.
 
 #### Kliniskt exempel: Två neurotypiska personer, två kulturer
 
@@ -196,7 +196,7 @@ Patienten håller ögonkontakt, ler och deltar socialt — men beskriver efterå
 - modellering av samtalsstruktur  
 - intern scanning av sociala signaler  
 
-Detta är kompensation, inte autistisk masking.
+Detta är en form av kompensation, inte nödvändigtvis autistisk masking.
 
 ---
 

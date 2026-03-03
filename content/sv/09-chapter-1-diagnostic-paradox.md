@@ -14,7 +14,7 @@ Ramverket har två avgörande styrkor:
 - **Reliabilitet**: två kliniker som använder samma kriterier bör nå samma slutsats  
 - **Standardisering**: ett gemensamt språk och strukturerade instrument (t.ex. DIVA, IDA, WAIS)  
 
-Det kliniska värdet av DSM är därför odiskutabelt.  
+Det kliniska värdet av DSM är därför i praktiken mycket högt.  
 Diagnostik utan ett gemensamt ramverk skulle vara omöjlig.
 
 DSM bygger dock i praktisk tillämpning också på ett grundantagande som sällan uttalas:
@@ -22,13 +22,13 @@ DSM bygger dock i praktisk tillämpning också på ett grundantagande som sälla
 > Att kognition uttrycker sig relativt homogent i populationen,  
 > med variation inom ett förutsägbart spann.
 
-Detta antagande håller för majoriteten av individer.
+Detta antagande håller för majoriteten av individer i praktiken.
 
 Men det skapar en diagnostisk paradox för subgrupper vars sätt att tänka, representera information, minnas och beskriva sina upplevelser avviker från den normativa modellen — inte patologiskt, utan **arkitektoniskt**.
 
 Sådana subgrupper inkluderar bland annat:
 
-Dessa profiler är inte kliniska kategorier, utan exempel på kognitiva uttrycksformer som ofta delar vissa arkitektoniska drag.
+Dessa profiler är inte kliniska kategorier, utan exempel på kognitiva uttrycksformer som ibland delar arkitektoniska drag.
 
 - systemtänkare  
 - programmerare och ingenjörer  
@@ -58,7 +58,7 @@ När en individ har ett kognitivt språk som:
 
 … kan ett test med hög reliabilitet ändå missa målgruppen fullständigt.
 
-Problemet är alltså inte personen.  
+Problemet ligger alltså inte hos personen.  
 Problemet är **kognitiv inkompatibilitet mellan individ och verktyg**.
 
 Detta leder till en välkänd klinisk fälla:
@@ -67,7 +67,7 @@ Detta leder till en välkänd klinisk fälla:
 > inte för att individen uppvisar autistiska drag,  
 > utan för att verktyget tolkar uttrycksformen som om den vore det.
 
-DSM är stabilt — men verkligheten är varierad.  
+DSM är stabilt — men verkligheten kan vara mer varierad.  
 Det är där paradoxen uppstår.
 
 ---

@@ -1,14 +1,14 @@
 # Bilaga A. Terminologi  
 *Glossary of Cognitive Culture Diagnostics*
 
-En strukturerad terminologi för CCF, SCC och MLCC — designad för klinisk användning.
+En strukturerad terminologi för CCF, SCC och MLCC — avsedd för klinisk användning.
 
 ---
 
 ## Cognitive Culture (CC)
 
 Individens grundläggande kognitiva arkitektur: hur tankar representeras, bearbetas och integreras.  
-Ej patologiskt; en deskriptiv dimension.
+Inte patologiskt i sig; en deskriptiv dimension.
 
 ---
 
@@ -41,7 +41,7 @@ En kognitiv kultur där sinnet organiserar världen i system, beroenden och logi
 
 ## Meta‑Logical Cognitive Culture (MLCC)
 
-En kognitiv kultur som använder metakognition som primär mekanism.
+En kognitiv kultur som ofta använder metakognition som primär mekanism.
 
 **Kännetecken:**
 
@@ -111,5 +111,5 @@ När klinikerns verktyg och individens kognitiva arkitektur talar olika språk �
 
 ## Process‑Inversion
 
-När individen svarar med processlogik snarare än minnesnarrativ.  
+När individen tenderar att svara med processlogik snarare än minnesnarrativ.  
 Vanligt gränsfall i DIVA och vissa WAIS‑delar.

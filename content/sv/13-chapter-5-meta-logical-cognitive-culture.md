@@ -6,7 +6,7 @@ Meta‑Logical Cognitive Culture (MLCC) är en avancerad kognitiv kultur där in
 
 MLCC representerar ett kognitivt *dubbelplan*, där metakognition, processmodellering och realtidsövervakning av mentala flöden utgör basinställningen.
 
-MLCC är den mest komplexa och diagnostiskt svårtolkade kognitiva kultur som hittills identifierats inom Cognitive Culture Framework (CCF). Den förekommer ofta hos:
+MLCC är den mer komplexa och diagnostiskt svårtolkade kognitiva kultur som hittills identifierats inom Cognitive Culture Framework (CCF). Den förekommer ofta hos:
 
 - **Högkognitiva systemtänkare**
 - **Personer med lång erfarenhet av felsökning, programmering eller teknisk analys**
@@ -22,7 +22,7 @@ MLCC ska förstås som ett **tolkningslager**, inte som en diagnos eller ett sym
 
 ## 5.1 Definition och kännetecken
 
-MLCC definieras som en kognitiv infrastruktur där individen i princip alltid:
+MLCC definieras som en kognitiv infrastruktur där individen typiskt sett:
 
 - **Observerar sitt eget tänkande medan hen tänker**
 - **Kör två (eller flera) parallella logiska flöden**
@@ -32,7 +32,7 @@ MLCC definieras som en kognitiv infrastruktur där individen i princip alltid:
 - **Använder metakognition som primärt språk, inte sekundärt verktyg**
 
 MLCC är inte *överintellektualisering*.  
-Det är en **driftsform**.
+Det kan förstås som en **driftsform**.
 
 ### Centrala kännetecken
 
@@ -42,7 +42,7 @@ Det är en **driftsform**.
    - **Stack 2:** meta‑analys av processen, prediktion, felsökning, beteendejustering  
 
 2. **Processprioritering framför narrativitet**  
-   Information organiseras i logiska kedjor, inte berättelser eller minnesbilder.
+   Information organiseras ofta i logiska kedjor snarare än berättelser eller minnesbilder.
 
 3. **Emotionell logik 2.0**  
    Känslor tolkas via meta‑modeller, inte via upplevda tillstånd.  
@@ -75,8 +75,7 @@ I MLCC är den **permanent påslagen**.
 - **Adaptiv justering:** beteende justeras utifrån en intern modell av den andras modell.  
 - **Prediktion:** löpande förutsägelser görs om utredarens fokus, mål och reaktioner.
 
-Detta är inte ett försvarsbeteende.  
-Det är den naturliga driftsmiljön.
+Detta behöver inte vara ett försvarsbeteende, utan kan vara den naturliga driftsmiljön.
 
 ### Klinisk manifestation
 
@@ -192,8 +191,7 @@ MLCC delar flera ytliga likheter med AST, trots helt olika etiologi.
 - **AST:** neurologiskt spektrumtillstånd med begränsningar  
 - **MLCC:** kognitiv stil med hög abstraktions‑ och optimeringskapacitet  
 
-Samma output.  
-Olika motor.
+Liknande output kan uppstå av olika underliggande mekanismer.
 
 ---
 

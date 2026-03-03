@@ -16,9 +16,9 @@ Metoden bygger på fyra principer.
 
 ### 1. Introspektionskvalitet som datakälla
 
-Vissa individer (SCC/MLCC) uppvisar exceptionellt stabil, detaljrik och metakognitiv introspektiv förmåga — långt över det genomsnitt som traditionella psykologiska metoder förutsätter.
+Vissa individer (SCC/MLCC) kan uppvisa ovanligt stabil, detaljrik och metakognitiv introspektiv förmåga — långt över det genomsnitt som traditionella psykologiska metoder förutsätter.
 
-Deras inre data är inte “subjektiva” i vardaglig mening, utan:
+Deras inre data är inte enbart subjektiva i vardaglig mening, utan kan vara:
 
 - systematiskt strukturerade  
 - reproducerbara  
@@ -65,7 +65,7 @@ Inom traditionell psykologi är anonymisering standard, främst av:
 1. etiska skäl  
 2. skydd mot generaliseringsfel  
 
-SAID kräver dock icke‑anonymitet av tre metodologiska skäl.
+SAID använder icke‑anonymitet av tre metodologiska skäl.
 
 ### 1. Kontext är del av datan
 
@@ -100,7 +100,7 @@ Genom att öppet deklarera subjektet blir:
 - metodvägen tydlig  
 - analysen reproducerbar inom rimliga ramar  
 
-SAID är därmed motsatsen till traditionell fallstudie‑anonymisering:  
+SAID skiljer sig därmed från traditionell fallstudie‑anonymisering:  
 **ärlighet blir kvalitetssäkring**.
 
 ---
@@ -199,7 +199,7 @@ Det indikerar att:
 - modellen behöver utökas  
 - en ny variabel har identifierats  
 
-Divergens är värdefull — det är så CCF utvecklades.
+Divergens kan vara värdefull — det är en av mekanismerna genom vilka CCF utvecklades.
 
 ---
 

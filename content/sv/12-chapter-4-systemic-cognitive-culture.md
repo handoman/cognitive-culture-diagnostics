@@ -2,7 +2,7 @@
 
 ## Del II — Core Framework
 
-Systemic Cognitive Culture (SCC) är en av de mest distinkta och kliniskt relevanta kognitiva kulturerna inom Cognitive Culture Framework. Den kännetecknas av att individens primära “mentala språk” är system, flöden, beroenden, logiska regler och optimeringsprinciper. SCC är vanlig inom programutveckling, ingenjörsvetenskap, spelkultur, hög abstrakt logik, syntetiskt tänkande och forskningsorienterat problemlösande.
+Systemic Cognitive Culture (SCC) är en av de mer distinkta och kliniskt relevanta kognitiva kulturerna inom Cognitive Culture Framework. Den kännetecknas av att individens primära “mentala språk” är system, flöden, beroenden, logiska regler och optimeringsprinciper. SCC är vanlig inom programutveckling, ingenjörsvetenskap, spelkultur, hög abstrakt logik, syntetiskt tänkande och forskningsorienterat problemlösande.
 
 SCC är framför allt viktigt därför att personer med denna profil ofta:
 
@@ -19,7 +19,7 @@ I CCF representerar SCC en höggradigt strukturerad variant av procedural + logi
 
 SCC definieras som en kognitiv kultur där individen:
 
-- **Inre organisation:** organiserar sitt inre liv som system, inte berättelser.
+- **Inre organisation:** ofta organiserar sitt inre liv som system snarare än berättelser.
 - **Bearbetning:** bearbetar information via flödesscheman, inte associationer.
 - **Känslor:** förstår känslor som datapunkter, inte känslotillstånd.
 - **Social kodning:** kodar sociala situationer som kontextuella system, inte interpersonella narrativ.
@@ -62,7 +62,7 @@ Där en narrativt orienterad person tänker:
 …tänker en SCC‑person:  
 “Det uppstod en mismatch i förväntningar. Jag behöver förstå systemparametrarna.”
 
-Detta är inte distansering. Det är deras naturliga sätt att representera information.
+Detta behöver inte vara distansering, utan kan vara deras naturliga sätt att representera information.
 
 ### Klinisk konsekvens
 
@@ -73,7 +73,7 @@ Systembaserad perception kan ge sken av:
 - **Rigiditet:** rigiditet.
 - **Mekanik:** social “mekaniskhet”.
 
-I SCC är detta en spegling av hur information behandlas—inte av bristande social förmåga.
+I SCC speglar detta ofta hur information behandlas, inte nödvändigtvis bristande social förmåga.
 
 ---
 
@@ -141,18 +141,18 @@ Men orsaken är annorlunda:
 - **AST:** neurokognitiv begränsning.
 - **SCC:** kognitiv stil.
 
-Samma output. Olika motor.
+Liknande output kan uppstå av olika underliggande mekanismer.
 
 ---
 
 ## 4.5 Missförstånd i traditionell diagnostik
 
-SCC kan misstas för AST i fem specifika domäner:
+SCC kan  i vissa fall misstas för AST i fem domäner:
 
 1. **Social ömsesidighet:**
    - **SCC:** optimerar interaktioner → effektivitet, etik, rättvisa.
    - **AST:** svårt att tolka sociala signaler.
-   - **Missförstånd:** “formellt socialt beteende = bristande social intuition”.
+   - **Missförstånd:** “formellt socialt beteende kan tolkas som bristande social intuition”.
 2. **Känslouttryck:**
    - **SCC:** analyserar före uttryck → låg spontanitet.
    - **AST:** begränsad affektproduktion.

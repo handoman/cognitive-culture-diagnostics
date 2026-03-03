@@ -13,16 +13,16 @@ Detta kapitel argumenterar för att psykologin behöver **ytterligare tolkningsa
 
 ### 14.1.1 Psyket är fuzzy — men verktygen är hårda
 
-Det centrala epistemologiska problemet i psykologin är att:
+Ett centrala epistemologiska problemet i psykologin är att:
 
 - diagnostiska verktyg bygger på binära kategorier  
 - psyket fungerar gradvis, kontextuellt och icke‑linjärt  
 
-DSM vilar på en implicit **threshold‑logik**:
+DSM vilar delvis på en implicit **threshold‑logik**:
 
 > “Om X antal kriterier uppfylls → kan klassificeras som Y.”
 
-Detta är funktionellt för reliabilitet, men begränsat för att beskriva komplex variation.
+Detta är funktionellt för reliabilitet, men kan vara begränsat för att beskriva komplex variation.
 
 **Fuzzy logic** utgår istället från att:
 
@@ -32,7 +32,7 @@ Detta är funktionellt för reliabilitet, men begränsat för att beskriva kompl
 - kontext är avgörande  
 - variation är förväntad, inte avvikande  
 
-SCC och MLCC är exempel på fuzzy‑logiska kategorier:  
+SCC och MLCC kan ses som exempel på fuzzy‑logiska kategorier:  
 de beskriver **hur information bearbetas**, inte **vad individen presterar**.
 
 ---
@@ -66,7 +66,7 @@ Precis som personlighet, affektsystem och exekutiva funktioner etablerades genom
 
 ### 14.3.1 Processvariation är lika viktig som beteendevariation
 
-Tre oberoende forskningsfält pekar mot samma slutsats:
+Tre oberoende forskningsfält pekar mot liknande slutsatser:
 
 - **Kognitionspsykologi:** människor använder fundamentalt olika representationsmodeller  
 - **Neurovetenskap:** hjärnnätverk organiseras i olika dominansmönster  
@@ -80,11 +80,7 @@ Kognitiv kultur beskriver den sammanhängande struktur som binder samman:
 - hur problem löses  
 - hur kompensation sker under stress  
 
-Detta är:
-
-- inte personlighet  
-- inte stil  
-- inte intelligensprofil  
+Detta är varken personlighet, stil eller intelligensprofil.
 
 Det är **tankens interna arkitektur**.
 
@@ -102,7 +98,7 @@ Följande mönster återkommer systematiskt i klinisk praxis:
 - medicinering utvärderas på beteende snarare än kognition  
 
 Dessa problem är inte marginella.  
-De är **förutsägbara konsekvenser** av att DSM saknar en axel för kognitiv arkitektur.
+De kan vara **förutsägbara konsekvenser** av att DSM saknar en axel för kognitiv arkitektur.
 
 ---
 
@@ -120,13 +116,13 @@ DSM är inte:
 - en uttömmande karta över alla variationsaxlar  
 - en beskrivning av hur hjärnor *kan* fungera  
 
-När DSM behandlas som metafysik uppstår det epistemologiska felet:
+När DSM behandlas som metafysik kan det epistemologiska felet uppstå:
 
 > “Om det inte finns i DSM kan det inte existera.”
 
 DSM är designat för:
 
-- populationer, inte individer  
+- populationer snarare än individer  
 - typiska uttryck, inte ovanliga strukturer  
 - kategorier, inte systemarkitekturer  
 
@@ -145,14 +141,13 @@ men kompletteras med:
 - kontextuella profiler  
 - representationsmodeller  
 
-Detta är inte ett avståndstagande från DSM.  
-Det är en **epistemologisk expansion**.
+Detta är inte ett avståndstagande från DSM, utan kan ses som en **epistemologisk expansion**.
 
 ---
 
 ## 14.5 Slutsats: Den nya syntesen
 
-Psykologin står inför ett nödvändigt skifte:
+Psykologin kan stå inför ett nödvändigt skifte:
 
 - från beteende → till process  
 - från symtom → till arkitektur  
@@ -167,6 +162,6 @@ Cognitive Culture Framework bidrar med:
 - en axel som förklarar varför vissa individer faller mellan stolarna  
 - ett sätt att öka rättvisa, precision och validitet i diagnostik  
 
-Vetenskapligt framsteg sker när ramen inte längre rymmer datan.
+Vetenskapligt framsteg sker ofta när ramen inte längre rymmer datan.
 
-Och datan från SCC‑ och MLCC‑profiler ryms inte i dagens ramverk.
+Och datan från SCC‑ och MLCC‑profiler ryms inte alltid i dagens ramverk.
