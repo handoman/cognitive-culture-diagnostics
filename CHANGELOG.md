@@ -5,6 +5,30 @@ This project follows [Semantic Versioning](https://semver.org/) and the structur
 
 ---
 
+## [1.2.0] – 2026‑07‑01
+### Added
+- Full AI‑optimized documentation layer (README‑AI.md) for:
+  - root level
+  - content/sv/
+  - meta/
+  - policy‑brief/
+  - appendices/
+- GEO-index.md as a semantic navigation hub for the entire project
+- meta-CCF-concept-map.md (complete text-based ontology)
+- Relations matrix in table format
+- Harmonized internal links across documentation layers
+
+### Changed
+- Ontology filename harmonized to `meta-CCF-concept-map.md`
+- Improved semantic consistency across all documentation layers
+- Updated root README.md with ontology reference
+
+### Fixed
+- Minor structural inconsistencies in the documentation hierarchy
+- Ensured stable heading structure in all AI-index files
+
+---
+
 ## [1.1.0] – 2026‑03‑03  
 ### Added
 - New front page for the policy brief  
