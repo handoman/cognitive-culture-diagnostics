@@ -1,17 +1,18 @@
 site_name: Cognitive Culture Framework
 site_description: En strukturerad monografi om kognitiv arkitektur i neuropsykiatrisk bedömning — Cognitive Culture Framework (CCF)
 site_author: Christian Sandberg
-site_url: https://ccf.csandberg.net/  # ← byt ut
+site_url: https://ccf.csandberg.se/
 
 repo_url: https://github.com/handoman/cognitive-culture-diagnostics
 repo_name: handoman/cognitive-culture-diagnostics
-edit_uri: ""  # inaktiverat — repot arkiveras igen efter deploy
+edit_uri: ""
 
 docs_dir: content/sv
 site_dir: site
 
 theme:
   name: material
+  custom_dir: overrides
   language: sv
   palette:
     - scheme: default
@@ -63,15 +64,12 @@ markdown_extensions:
   - pymdownx.snippets
 
 extra:
-  # Cloudflare Web Analytics — token läggs till efter Pages-deploy
-  # Lägg beacon-scriptet i overrides/main.html (se nedan)
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/handoman/cognitive-culture-diagnostics
       name: Källkod på GitHub
-  generator: false  # döljer "Made with Material for MkDocs"
+  generator: false
 
-# Filer i docs_dir som avsiktligt utelämnas från nav
 not_in_nav: |
   README-AI.md
   appendices/README.md
