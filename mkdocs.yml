@@ -1,0 +1,121 @@
+site_name: Cognitive Culture Framework
+site_description: En strukturerad monografi om kognitiv arkitektur i neuropsykiatrisk bedömning — Cognitive Culture Framework (CCF)
+site_author: Christian Sandberg
+site_url: https://ccf.csandberg.net/  # ← byt ut
+
+repo_url: https://github.com/handoman/cognitive-culture-diagnostics
+repo_name: handoman/cognitive-culture-diagnostics
+edit_uri: ""  # inaktiverat — repot arkiveras igen efter deploy
+
+docs_dir: content/sv
+site_dir: site
+
+theme:
+  name: material
+  language: sv
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Byt till mörkt läge
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Byt till ljust läge
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - toc.follow
+    - content.code.copy
+
+plugins:
+  - search:
+      lang: sv
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      title: Innehåll
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets
+
+extra:
+  # Cloudflare Web Analytics — token läggs till efter Pages-deploy
+  # Lägg beacon-scriptet i overrides/main.html (se nedan)
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/handoman/cognitive-culture-diagnostics
+      name: Källkod på GitHub
+  generator: false  # döljer "Made with Material for MkDocs"
+
+# Filer i docs_dir som avsiktligt utelämnas från nav
+not_in_nav: |
+  README-AI.md
+  appendices/README.md
+  appendices/README-AI.md
+
+nav:
+  - Hem: README.md
+  - Sammanfattning (Policy Brief): policy-brief.md
+  - Framsida:
+    - Författarens not: 00-author-note.md
+    - Förord: 01-preface.md
+    - Licensnot: 02-license-note.md
+    - Abstract: 03-abstract.md
+    - Om författaren: 04-about-the-author.md
+  - Introduktion:
+    - Bakgrund och kontext: 05-chapter-0-introduction.md
+    - Syfte: 06-chapter-0-purpose.md
+    - Etiska överväganden: 07-chapter-0-ethics.md
+    - Intentionsdeklaration: 08-chapter-0-intent.md
+  - "Del I–II — Teori":
+    - "Kap 1 — Det diagnostiska paradoxet": 09-chapter-1-diagnostic-paradox.md
+    - "Kap 2 — Kognitiv kulturteori": 10-chapter-2-cognitive-culture-theory.md
+    - "Kap 3 — Cognitive Culture Framework": 11-chapter-3-cognitive-culture-framework.md
+    - "Kap 4 — Systemisk kognitiv kultur (SCC)": 12-chapter-4-systemic-cognitive-culture.md
+    - "Kap 5 — Meta-logisk kognitiv kultur (MLCC)": 13-chapter-5-meta-logical-cognitive-culture.md
+    - "Kap 6 — Differentiationsmatris": 14-chapter-6-differentiation-matrix.md
+  - "Del III — Tillämpad analys":
+    - "Kap 7 — Self-as-Instrument Design": 15-chapter-7-self-as-instrument-design.md
+    - "Kap 8 — Subjektsprofil och kontext": 16-chapter-8-subject-profile-context.md
+    - "Kap 9 — Processanalys, diagnostisk kontext": 17-chapter-9-process-analysis-diagnostic-context.md
+    - "Kap 10 — CCF-diagnostiskt filter": 18-chapter-10-cognitive-culture-diagnostic-filter.md
+  - "Del IV — Klinisk tillämpning":
+    - "Kap 11 — Intervjua den systemiske tänkaren": 19-chapter-11-interviewing-the-systemic-thinker.md
+    - "Kap 12 — Bedömningsdesign v2": 20-chapter-12-assessment-design-v2.md
+    - "Kap 13 — Kliniska rekommendationer": 21-chapter-13-clinical-recommendations.md
+  - "Del V — Epistemologi och framtid":
+    - "Kap 14 — Vetenskaplig epistemologi och kognitiva axlar": 22-chapter-14-scientific-epistemology-and-cognitive-axes.md
+    - "Kap 15 — Framtidens diagnostik och kognitiva kulturer": 23-chapter-15-future-diagnostics-and-cognitive-cultures.md
+    - "Kap 16 — Sammanfattning och implikationer": 24-chapter-16-summary-and-implications.md
+    - "Kap 17 — Forskningsdesign": 25-chapter-17-research-design-cognitive-culture-diagnostics.md
+  - Appendix:
+    - "A — Terminologiordlista": appendices/appendix-a-terminology-glossary.md
+    - "B — CCF-mappningsblad": appendices/appendix-b-ccf-mapping-sheet.md
+    - "C — Klinisk checklista SCC/MLCC": appendices/appendix-c-clinical-checklist-scc-mlcc.md
+    - "D — Visuella modellbeskrivningar": appendices/appendix-d-visual-model-descriptions.md
+    - "E — Misalignmentmönster": appendices/appendix-e-patterns-of-misalignment.md
+    - "F — Modeller, skilltrees och diagram": appendices/appendix-f-models-skilltrees-and-diagrams.md
