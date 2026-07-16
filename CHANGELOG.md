@@ -5,6 +5,34 @@ This project follows [Semantic Versioning](https://semver.org/) and the structur
 
 ---
 
+## [1.3.0] – 2026‑07‑16
+### Added
+- MkDocs with Material theme (`mkdocs.yml`, `requirements.txt`)
+- Cloudflare Pages deployment — monograph published at https://ccf.csandberg.se/
+- Custom domain `ccf.csandberg.se` via Cloudflare DNS
+- Cloudflare Web Analytics (privacy-first, no cookies)
+- Bing Webmaster Tools verification and sitemap submission
+- Google Search Console verification and sitemap submission
+- `llms.txt` for LLM crawler accessibility (served at `/llms.txt`)
+- `overrides/main.html` for Bing verification meta tag
+- ORCID profile created and linked to project
+- Zenodo upload initiated for DOI assignment
+
+### Changed
+- All GEO/AI index files updated with canonical site URLs (ccf.csandberg.se)
+- Web URLs added alongside repo paths in GEO-index.md and meta-CCF-concept-map.md
+- Answer Units expanded and synced across all README-AI.md files
+- content/en/ clarified: no English monograph planned, translation permitted under CC BY-SA 4.0
+- Policy brief metadata block corrected (linebreaks, primary URL updated to ccf.csandberg.se)
+- GitHub repo About section updated with site URL and topic tags
+- Non-standard Unicode hyphens (U+2011) in README‑AI.md filenames corrected to standard hyphen
+
+### Fixed
+- Symlink for policy-brief resolved via file copy (Windows→Linux path compatibility)
+- `custom_dir: overrides` added to mkdocs.yml (previously missing)
+
+---
+
 ## [1.2.0] – 2026‑07‑01
 ### Added
 - Full AI‑optimized documentation layer (README‑AI.md) for:
