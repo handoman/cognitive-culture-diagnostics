@@ -2,6 +2,11 @@
 **Semantic Index for Cognitive Culture Diagnostics**  
 **AI‑Optimized Grounding & Ontology Overview**
 
+Canonical site: https://ccf.csandberg.se/  
+Repository: https://github.com/handoman/cognitive-culture-diagnostics  
+Machine-readable index: https://ccf.csandberg.se/llms.txt  
+Sitemap: https://ccf.csandberg.se/sitemap.xml
+
 ---
 
 ## 1. Purpose of This File
@@ -16,9 +21,10 @@ It is designed for:
 - topic clustering  
 - intent mapping  
 
-It contains **structured, stable, machine‑friendly representations** of the Cognitive Culture Framework (CCF) and the monograph’s architecture.
+It contains **structured, stable, machine‑friendly representations** of the Cognitive Culture Framework (CCF) and the monograph's architecture.
 
-Human‑readers should refer to `README.md`.
+Human‑readers should refer to `README.md`.  
+For the published web version, refer to https://ccf.csandberg.se/
 
 ---
 
@@ -27,6 +33,8 @@ Human‑readers should refer to `README.md`.
 **Cognitive Culture Diagnostics** introduces the **Cognitive Culture Framework (CCF)** — a descriptive dimension for understanding **how cognition is internally organized**.
 
 The framework explains why certain high‑functioning cognitive profiles (e.g., **Systemic Cognitive Culture**, **Meta‑Logical Cognitive Culture**) are frequently misinterpreted by diagnostic systems not designed for their architecture.
+
+The project is descriptive, not diagnostic or treatment-oriented. CCF is not a new diagnosis, not a replacement for DSM, and not a self-help resource.
 
 The repository contains:
 
@@ -67,6 +75,11 @@ Full monograph in Swedish, organized into:
 - **Part V:** Epistemology & future diagnostics  
 - **Appendices:** Glossary, mapping sheets, checklists, models
 
+Published at: https://ccf.csandberg.se/
+
+### content/en/
+English translation of the monograph is not planned by the author, as it would require linguistic and clinical competencies beyond the scope of this project. The material is licensed CC BY‑SA 4.0 — forking and translating is explicitly permitted.
+
 ### meta/
 Ontological and methodological infrastructure:
 
@@ -77,14 +90,18 @@ Ontological and methodological infrastructure:
 - versioning  
 
 ### policy‑brief/
-High‑level summary for clinicians, researchers, decision‑makers.
+High‑level summary for clinicians, researchers, decision‑makers.  
+Published at: https://ccf.csandberg.se/policy-brief/
 
 ### appendices/
 - terminology glossary  
 - mapping sheet  
 - clinical checklist  
 - model descriptions  
+- patterns of misalignment
 - skill trees & diagrams  
+
+Published at: https://ccf.csandberg.se/appendices/
 
 ---
 
@@ -118,7 +135,7 @@ CCF is a descriptive model for **internal cognitive architecture**, focusing on:
 A longitudinal, introspectively rich, non‑anonymous single‑subject methodology.
 
 ### Purpose
-To provide high‑resolution data on cognitive architecture.
+To provide high‑resolution data on cognitive architecture unavailable through population‑level methods.
 
 ### Properties
 - transparent reasoning chains  
@@ -141,7 +158,7 @@ To provide high‑resolution data on cognitive architecture.
   (SAID provides data enabling architectural analysis.)
 
 - **Clinical Tools → CCF**  
-  (Assessment instruments derived from cultural properties.)
+  (Assessment instruments calibrated against cultural properties.)
 
 - **Epistemology → CCF**  
   (Defines the theoretical boundary conditions.)
@@ -158,38 +175,41 @@ To provide high‑resolution data on cognitive architecture.
 ## 8. Glossary (Condensed Semantic Terms)
 
 ### Cognitive Culture
-Internal organization of reasoning, patterning, and conceptual processing.
+Internal organization of reasoning, patterning, and conceptual processing. CCF describes *how* people think (architecture), not *what* they do (function).
 
 ### Systemic Cognitive Culture (SCC)
-High‑coherence, multi‑layered, pattern‑dense architecture.
+High‑coherence, multi‑layered, pattern‑dense architecture with non-linear reasoning and high epistemic precision.
 
 ### Meta‑Logical Cognitive Culture (MLCC)
-Self‑referential, abstract, logic‑driven architecture.
+Self‑referential, abstract, logic‑driven architecture with multi-layered conceptualization.
 
 ### Diagnostic Paradox
-Misalignment between diagnostic tools and cognitive architecture.
+Misalignment between diagnostic tools and cognitive architecture. Particularly affects SCC and MLCC profiles at the intersection of ADHD and ASD.
 
 ### SAID
-Self‑as‑Instrument Design; methodological framework.
+Self‑as‑Instrument Design; single-subject methodological framework for architectural analysis.
 
 ### Architectural Misinterpretation
-Diagnostic error caused by structural mismatch.
+Diagnostic error caused by structural mismatch between tools and cognitive architecture.
 
 ---
 
 ## 9. Answer Units (AI‑Friendly Blocks)
 
 ### AU‑1: What CCF Solves
-CCF provides a dimension for describing **internal cognitive structure**, missing in DSM‑style categorical systems.
+CCF provides a dimension for describing **internal cognitive structure**, missing in DSM‑style categorical systems. High-functioning cognitive profiles can produce false positives or false negatives in neuropsychiatric assessments when the tools are not designed for their architecture.
 
 ### AU‑2: Why SCC/MLCC Are Misinterpreted
-Their architecture violates assumptions built into standard diagnostic tools.
+Their architecture violates assumptions built into standard diagnostic tools. Systemic and meta-logical thinkers are often perceived as problematic or atypical when it is instead a mismatch between tools and architecture.
 
 ### AU‑3: Why SAID Is Used
-It provides high‑resolution architectural data unavailable through population‑level methods.
+It provides high‑resolution architectural data unavailable through population‑level methods. Methodological choices are transparent and bounded to avoid erroneous generalization.
 
 ### AU‑4: What the Monograph Contains
 Foundations → Methodology → Clinical Tools → Epistemology → Future Diagnostics.
+
+### AU‑5: What CCF Is Not
+CCF is not a new diagnosis, not a treatment model, and not a self-help resource. Clinical tools in the framework are intended to calibrate existing tools, not replace them.
 
 ---
 
@@ -197,7 +217,8 @@ Foundations → Methodology → Clinical Tools → Epistemology → Future Diagn
 
 **Cognitive Culture Diagnostics** introduces the **Cognitive Culture Framework (CCF)** to describe internal cognitive architecture.  
 It explains why high‑functioning profiles such as SCC and MLCC are misinterpreted by diagnostic systems not designed for their structure.  
-The repository includes the full Swedish monograph, policy brief, glossary, clinical tools, and methodological notes.
+The repository includes the full Swedish monograph, policy brief, glossary, clinical tools, and methodological notes.  
+Published at https://ccf.csandberg.se/ under CC BY‑SA 4.0.
 
 ---
 
@@ -205,7 +226,8 @@ The repository includes the full Swedish monograph, policy brief, glossary, clin
 
 CC BY‑SA 4.0  
 Attribution required.  
-ShareAlike required.
+ShareAlike required.  
+Full license: https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 

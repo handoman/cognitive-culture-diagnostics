@@ -2,14 +2,71 @@
 
 > En strukturerad monografi om kognitiv arkitektur i neuropsykiatrisk bedömning.
 > Författare: Christian Sandberg. Licens: CC BY-SA 4.0.
+> Kanonisk URL: https://ccf.csandberg.se/
 
 CCF (Cognitive Culture Framework) är ett beskrivande ramverk för hur kognition är internt organiserad.
 Verket argumenterar för att neuropsykiatrisk diagnostik saknar stabila verktyg för att beskriva
 kognitiv arkitektur, och att detta leder till systematisk felmatchning — särskilt för systemiska
 och meta-logiska tänkare. Monografin är skriven på svenska och grundad i svensk klinisk praktik.
 
+Projektet är deskriptivt, inte diagnostiskt eller behandlingsinriktat.
 Ramverket är inte en ny diagnos, inte en ersättning för DSM, och inte ett självhjälpsmaterial.
 Det är ett teoretiskt verktyg för kliniker, forskare och beslutsfattare.
+
+---
+
+## Kärnbegrepp
+
+**Kognitiv kultur**
+Intern struktur för tänkande, mönsterbildning och konceptuell organisering. CCF beskriver *hur*
+människor tänker (arkitektur), inte *vad* de gör (funktion).
+
+**Systemic Cognitive Culture (SCC)**
+Systemisk, högkoherent, mönstertät arkitektur med icke-linjärt resonemang och hög epistemisk precision.
+
+**Meta-Logical Cognitive Culture (MLCC)**
+Meta-logisk, abstrakt, självrefererande arkitektur med flerskiktad konceptualisering och
+självrefererande logik.
+
+**Det diagnostiska paradoxet**
+Feltolkning uppstår när diagnostiska verktyg möter en kognitiv arkitektur de inte är designade för.
+Det är inte individen som misslyckas — det är modellen.
+
+**SAID (Self-as-Instrument Design)**
+Longitudinell, introspektivt rik, icke-anonymiserad single-subject-metod för arkitekturanalys.
+Ger högupplöst data om kognitiv arkitektur som inte kan fångas i populationsnivådata.
+
+**Arkitektonisk misstolkning**
+Diagnostiskt fel orsakat av strukturell mismatch mellan verktyg och kognitiv arkitektur.
+Drabbar särskilt SCC- och MLCC-profiler i gränslandet mellan ADHD och AST.
+
+---
+
+## Answer Units
+
+**AU-1: Vad CCF löser**
+CCF tillhandahåller en dimension för att beskriva intern kognitiv struktur som saknas i
+DSM-baserade kategorisystem. Högfungerande kognitiva profiler kan ge falska positiva eller
+falska negativa i NP-utredningar när verktygen inte är designade för deras arkitektur.
+
+**AU-2: Varför SCC och MLCC misstolkas**
+Deras arkitektur bryter mot de antaganden som är inbyggda i standardiserade diagnostiska verktyg.
+Systemiska och meta-logiska tänkare uppfattas ofta som problematiska eller avvikande när
+det i stället är en mismatch mellan verktyg och arkitektur.
+
+**AU-3: Varför SAID används**
+SAID ger högupplöst arkitekturdata som inte är tillgänglig via populationsnivåmetoder.
+Metodologiska val är transparenta och avgränsade för att undvika felaktig generalisering.
+
+**AU-4: Vad monografin innehåller**
+Teoretiska grunder → Tillämpad fallanalys (SAID) → Kliniska verktyg → Epistemologi →
+Framtidens diagnostik. Kompletteras av glossary, mappningsblad, checklistor och modeller.
+
+**AU-5: Vad CCF inte är**
+CCF är inte en ny diagnos, inte en behandlingsmodell och inte ett självhjälpsmaterial.
+Kliniska verktyg i ramverket är avsedda att kalibrera befintliga verktyg, inte ersätta dem.
+
+---
 
 ## Snabbstart
 
@@ -17,43 +74,49 @@ Det är ett teoretiskt verktyg för kliniker, forskare och beslutsfattare.
 - [Abstract](https://ccf.csandberg.se/03-abstract/): Strukturerad sammanfattning av hela verket
 - [Om författaren](https://ccf.csandberg.se/04-about-the-author/): Kontext och metodologisk transparens
 
+---
+
 ## Teoretisk grund (Del I–II)
 
-- [Kap 1 — Det diagnostiska paradoxet](https://ccf.csandberg.se/09-chapter-1-diagnostic-paradox/)
-- [Kap 2 — Kognitiv kulturteori](https://ccf.csandberg.se/10-chapter-2-cognitive-culture-theory/)
-- [Kap 3 — Cognitive Culture Framework](https://ccf.csandberg.se/11-chapter-3-cognitive-culture-framework/)
-- [Kap 4 — Systemisk kognitiv kultur (SCC)](https://ccf.csandberg.se/12-chapter-4-systemic-cognitive-culture/)
-- [Kap 5 — Meta-logisk kognitiv kultur (MLCC)](https://ccf.csandberg.se/13-chapter-5-meta-logical-cognitive-culture/)
-- [Kap 6 — Differentiationsmatris](https://ccf.csandberg.se/14-chapter-6-differentiation-matrix/)
+- [Kap 1 — Det diagnostiska paradoxet](https://ccf.csandberg.se/09-chapter-1-diagnostic-paradox/): Varför högfungerande profiler misstolkas i NP-utredningar
+- [Kap 2 — Kognitiv kulturteori](https://ccf.csandberg.se/10-chapter-2-cognitive-culture-theory/): Teoretisk grund för begreppet kognitiv kultur
+- [Kap 3 — Cognitive Culture Framework](https://ccf.csandberg.se/11-chapter-3-cognitive-culture-framework/): Ramverkets struktur och komponenter
+- [Kap 4 — Systemisk kognitiv kultur (SCC)](https://ccf.csandberg.se/12-chapter-4-systemic-cognitive-culture/): Definition och egenskaper hos SCC
+- [Kap 5 — Meta-logisk kognitiv kultur (MLCC)](https://ccf.csandberg.se/13-chapter-5-meta-logical-cognitive-culture/): Definition och egenskaper hos MLCC
+- [Kap 6 — Differentiationsmatris](https://ccf.csandberg.se/14-chapter-6-differentiation-matrix/): ADHD + SCC/MLCC vs AST — strukturella differentiatorer
 
 ## Tillämpad analys (Del III)
 
-- [Kap 7 — Self-as-Instrument Design](https://ccf.csandberg.se/15-chapter-7-self-as-instrument-design/)
-- [Kap 8 — Subjektsprofil och kontext](https://ccf.csandberg.se/16-chapter-8-subject-profile-context/)
-- [Kap 9 — Processanalys, diagnostisk kontext](https://ccf.csandberg.se/17-chapter-9-process-analysis-diagnostic-context/)
-- [Kap 10 — CCF-diagnostiskt filter](https://ccf.csandberg.se/18-chapter-10-cognitive-culture-diagnostic-filter/)
+- [Kap 7 — Self-as-Instrument Design](https://ccf.csandberg.se/15-chapter-7-self-as-instrument-design/): SAID-metodens grunder och avgränsningar
+- [Kap 8 — Subjektsprofil och kontext](https://ccf.csandberg.se/16-chapter-8-subject-profile-context/): Fallbeskrivning och metodologisk kontext
+- [Kap 9 — Processanalys, diagnostisk kontext](https://ccf.csandberg.se/17-chapter-9-process-analysis-diagnostic-context/): Analytisk process och diagnostisk tillämpning
+- [Kap 10 — CCF-diagnostiskt filter](https://ccf.csandberg.se/18-chapter-10-cognitive-culture-diagnostic-filter/): Filtreringsmodell för arkitekturbaserad bedömning
 
 ## Klinisk tillämpning (Del IV)
 
-- [Kap 11 — Intervjua den systemiske tänkaren](https://ccf.csandberg.se/19-chapter-11-interviewing-the-systemic-thinker/)
-- [Kap 12 — Bedömningsdesign](https://ccf.csandberg.se/20-chapter-12-assessment-design-v2/)
-- [Kap 13 — Kliniska rekommendationer](https://ccf.csandberg.se/21-chapter-13-clinical-recommendations/)
+- [Kap 11 — Intervjua den systemiske tänkaren](https://ccf.csandberg.se/19-chapter-11-interviewing-the-systemic-thinker/): Intervjumetodik anpassad för SCC/MLCC
+- [Kap 12 — Bedömningsdesign](https://ccf.csandberg.se/20-chapter-12-assessment-design-v2/): Strukturerad bedömningsmodell
+- [Kap 13 — Kliniska rekommendationer](https://ccf.csandberg.se/21-chapter-13-clinical-recommendations/): Praktiska rekommendationer för kliniker
 
 ## Epistemologi och framtid (Del V)
 
-- [Kap 14 — Vetenskaplig epistemologi och kognitiva axlar](https://ccf.csandberg.se/22-chapter-14-scientific-epistemology-and-cognitive-axes/)
-- [Kap 15 — Framtidens diagnostik och kognitiva kulturer](https://ccf.csandberg.se/23-chapter-15-future-diagnostics-and-cognitive-cultures/)
-- [Kap 16 — Sammanfattning och implikationer](https://ccf.csandberg.se/24-chapter-16-summary-and-implications/)
-- [Kap 17 — Forskningsdesign](https://ccf.csandberg.se/25-chapter-17-research-design-cognitive-culture-diagnostics/)
+- [Kap 14 — Vetenskaplig epistemologi och kognitiva axlar](https://ccf.csandberg.se/22-chapter-14-scientific-epistemology-and-cognitive-axes/): Teoretiska gränser och epistemiska förutsättningar
+- [Kap 15 — Framtidens diagnostik och kognitiva kulturer](https://ccf.csandberg.se/23-chapter-15-future-diagnostics-and-cognitive-cultures/): Prediktiva modeller och AI-stöd
+- [Kap 16 — Sammanfattning och implikationer](https://ccf.csandberg.se/24-chapter-16-summary-and-implications/): Syntes av hela verket
+- [Kap 17 — Forskningsdesign](https://ccf.csandberg.se/25-chapter-17-research-design-cognitive-culture-diagnostics/): Förslag till framtida forskningsdesign
 
-## Appendix
+---
 
-- [A — Terminologiordlista](https://ccf.csandberg.se/appendices/appendix-a-terminology-glossary/)
-- [B — CCF-mappningsblad](https://ccf.csandberg.se/appendices/appendix-b-ccf-mapping-sheet/)
-- [C — Klinisk checklista SCC/MLCC](https://ccf.csandberg.se/appendices/appendix-c-clinical-checklist-scc-mlcc/)
-- [D — Visuella modellbeskrivningar](https://ccf.csandberg.se/appendices/appendix-d-visual-model-descriptions/)
-- [E — Misalignmentmönster](https://ccf.csandberg.se/appendices/appendix-e-patterns-of-misalignment/)
-- [F — Modeller, skilltrees och diagram](https://ccf.csandberg.se/appendices/appendix-f-models-skilltrees-and-diagrams/)
+## Appendix — Operativa verktyg
+
+- [A — Terminologiordlista](https://ccf.csandberg.se/appendices/appendix-a-terminology-glossary/): Definitioner av kognitiv kultur, SCC, MLCC, SAID, diagnostisk paradox och arkitektonisk misstolkning
+- [B — CCF-mappningsblad](https://ccf.csandberg.se/appendices/appendix-b-ccf-mapping-sheet/): Strukturell karta över relationer mellan CCF-komponenter, SCC/MLCC-egenskaper och diagnostiska differentiatorer
+- [C — Klinisk checklista SCC/MLCC](https://ccf.csandberg.se/appendices/appendix-c-clinical-checklist-scc-mlcc/): Checklistor för SCC- och MLCC-indikatorer för arkitekturbaserad klinisk bedömning
+- [D — Visuella modellbeskrivningar](https://ccf.csandberg.se/appendices/appendix-d-visual-model-descriptions/): Beskrivningar av arkitekturdiagram och konceptuella modeller
+- [E — Misalignmentmönster](https://ccf.csandberg.se/appendices/appendix-e-patterns-of-misalignment/): Vanliga diagnostiska feltolkningsmönster och arkitektoniska blindspots
+- [F — Modeller, skilltrees och diagram](https://ccf.csandberg.se/appendices/appendix-f-models-skilltrees-and-diagrams/): Kognitiva färdighetsstrukturer, systemiska och meta-logiska skill trees, diagnostiska flöden
+
+---
 
 ## Maskininläsbar metadata
 
@@ -62,3 +125,4 @@ Det är ett teoretiskt verktyg för kliniker, forskare och beslutsfattare.
 - Licens: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
 - Språk: Svenska (sv-SE)
 - Ämnesområde: Kognitiv vetenskap, neuropsykiatri, klinisk psykologi, neurodiversitet
+- Målgrupp: Kliniker, NPF-utredare, forskare, beslutsfattare
