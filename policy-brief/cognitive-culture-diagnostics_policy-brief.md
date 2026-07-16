@@ -2,14 +2,14 @@
 ## Policy Brief v1.1.0
 ### Understanding Cognitive Architecture in Neuropsychiatric Assessment
 
-**Författare:** Christian Sandberg
-**Publiceringsår:** 2026
-**Version:** 1.1.0
-**Kontakt:** csandberg.ghcontact@ecosandberg.se
+**Författare:** Christian Sandberg  
+**Publiceringsår:** 2026  
+**Version:** 1.1.0  
+**Kontakt:** csandberg.ghcontact@ecosandberg.se  
 
-**Relaterad monografi:**
-*Cognitive Culture Diagnostics – A Theoretical and Clinical Framework for Understanding Cognitive Architecture*
-Länk: https://github.com/handoman/cognitive-culture-diagnostics
+**Relaterad monografi:**  
+*Cognitive Culture Diagnostics – A Theoretical and Clinical Framework for Understanding Cognitive Architecture*  
+**Länk:** https://ccf.csandberg.se/
 
 ---
 
