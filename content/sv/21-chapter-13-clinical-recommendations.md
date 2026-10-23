@@ -13,7 +13,7 @@ Rekommendationerna är avsedda som **tolkningsstöd**, inte som ersättning för
 
 ## 13.1 Differentialdiagnostik: ett nytt raster
 
-### 13.1.1 Varför SCC/MLCC ofta misstolkas som AST
+### 13.1.1 Varför SCC/MLCC misstolkas som AST
 
 I klassisk klinisk tolkning överlappar SCC/MLCC med autismprofil på flera ytnivåer.
 
@@ -40,26 +40,6 @@ Det diagnostiska misstaget kan uppstå när **strukturerad presentation** tolkas
 
 ---
 
-### 13.1.3 Rekommendation: tre nyckelfrågor för differentialdiagnos
-
-Vid misstänkt AST bör psykologen alltid ställa följande:
-
-1. **“Hur snabbt uppfattar du andra människors känslotillstånd?”**  
-   - SCC/MLCC → snabb, ofta omedelbar process  
-   - AST → långsammare, regel‑ eller scriptbaserad tolkning  
-
-2. **“Hur avgör du när du ska anpassa dig i socialt samspel?”**  
-   - SCC/MLCC → intuitiv känslo‑ och kontextkalibrering  
-   - AST → explicit inlärda strategier  
-
-3. **“Vad händer i dig när sociala signaler är otydliga?”**  
-   - SCC/MLCC → analys + känslokartläggning → hög träffsäkerhet  
-   - AST → osäkerhet, ibland ängslan eller automatisering  
-
-Dessa frågor skiljer **instrumentell systematik** från **neurobiologisk socialkognitiv svaghet**.
-
----
-
 ## 13.2 Revidering av begreppet “rigiditet” i AST‑bedömning
 
 DSM‑5‑TR beskriver rigiditet som:
@@ -68,7 +48,7 @@ DSM‑5‑TR beskriver rigiditet som:
 - insisterande på likformighet  
 - motstånd mot förändring  
 
-I SCC/MLCC‑profiler kan ibland motsatsen ses:
+I min profil kan ibland motsatsen ses:
 
 - mycket snabb systemomkalibrering  
 - hög flexibilitet när logiken stödjer förändring  
@@ -78,24 +58,14 @@ I SCC/MLCC‑profiler kan ibland motsatsen ses:
 
 ### 13.2.1 Rigiditet → operativ konsekvens
 
-För SCC/MLCC bör följande distinktion användas:
+I mitt fall ser distinktionen ut så här:
 
-| **DSM‑term** | **CCF‑omtolkning** |
+| **DSM‑term** | **Hur jag själv beskriver samma beteende** |
 |---|---|
 | Behöver struktur | Skapar struktur för att optimera kognition |
 | Gillar förutsägbarhet | Förutsägbarhet sparar dopamin och arbetsminne |
 | Uppfattas som bestämd | Följer intern logisk modell tills ny data inkommer |
 | Byter inte lätt spår | Byter spår direkt när logisk trigger uppstår |
-
-**Rekommendation:**  
-Rigiditet bör inte kodas utan test av *speed of recalibration*.
-
-**Snabbt kliniskt test (≈1 minut):**  
-“Föreställ dig att situation X förändras oväntat. Vad gör du direkt?”
-
-- AST → stress, osäkerhet, script‑sökning  
-- SCC → systemuppdatering, låg affekt  
-- MLCC → meta‑analys och reoptimering  
 
 ---
 
@@ -125,85 +95,12 @@ Detta kan misstolkas som *inattention*, men kan i praktiken spegla **prioriterin
 
 ---
 
-### 13.3.3 Subtyprekommendation
+## 13.4 Notering om behandling
 
-För SCC/MLCC bör följande övervägas:
-
-- **ADHD‑C (Combined)** maskerad av intellektuell kompensation  
-- **ADHD‑PI (Predominantly Inattentive)** med systemdriven hyperfokus och reglerad dopaminprofil  
-
-Bedömningen kan baseras på:
-
-- dopaminberoendedynamik  
-- arbetsminneskollaps vid lågdopamintillstånd  
-- exekutiva flaskhalsar vid simultana processer  
-- affekt‑lågdrift snarare än affektbrist  
+Jag drar inga slutsatser om läkemedelsval, dosering eller behandlingssvar för någon annan än mig själv, och redovisar inte mina egna här. Sådana frågor ligger helt utanför ramverkets syfte.
 
 ---
 
-## 13.4 Kliniska överväganden kring medicinering
+## 13.5 Sammanfattning
 
-SCC/MLCC‑profiler kan svara atypiskt på farmakologisk behandling av flera skäl:
-
-- hög kognitiv kompensation maskerar effekt  
-- systemtänkande ökar risk för överfokus  
-- MLCC‑profilens meta‑stack kan bli överaktiverad  
-- dopaminberoende gör låg dos ineffektiv och hög dos överfokuserande  
-
----
-
-### 13.4.1 Grundregel 1: Mät effekt i exekutiv bandbredd
-
-Yttre beteende är ofta ett begränsat mått.
-
-Fokusera istället på:
-
-- arbetsminneskapacitet  
-- förmåga att hålla tråd över tid  
-- latency i task‑switching  
-- processavslut snarare än avbrott  
-- stabilitet över dopaminvariation  
-
----
-
-### 13.4.2 Grundregel 2: “För lugn respons” är inte nödvändigtvis överdos
-
-SCC/MLCC kan beskriva adekvat dos som:
-
-> “Jag blir tystare, mindre trasslig i huvudet, mer linjär.”
-
-Detta indikerar ofta **behandlingseffekt**, inte dämpning.
-
----
-
-### 13.4.3 Grundregel 3: Var uppmärksam på hyperfokus‑fällan
-
-Vid för hög dos kan:
-
-- hyperfokus bli mer rigid  
-- meta‑stack gå i övervarv  
-- processer bli för sekventiella → minskad flexibilitet  
-
-**Rekommendation:**  
-Dosjustering i små steg, med utvärdering av kognitiv funktion snarare än subjektiv “känsla”.
-
----
-
-### 13.4.4 Grundregel 4: Profilskillnader i läkemedelssvar
-
-| **Profil** | **Potentiell fördel** | **Risk** |
-|---|---|---|
-| SCC | Stimulantia för arbetsminnesallokering | Hyperfokus‑lock, snabb tolerans |
-| MLCC | Lägre doser, ofta metylfenidat | Meta‑overdrive vid för hög dos |
-
-Alla beslut bör ske inom medicinsk praxis och individuell bedömning.
-
----
-
-## 13.5 Sammanfattning av kliniska rekommendationer
-
-1. Kartlägg kognitiv kultur innan testdata tolkas.  
-2. Skilj mellan rigiditet och operativ konsekvens.  
-3. Bedöm ADHD‑subtyp utifrån dopamin‑ och processdynamik.  
-4. Optimera behandling med fokus på intern kognition snarare än enbart yttre beteende.  
-5. SCC/MLCC‑profiler är högkvalitativa informanter — men kräver rätt frågeformat.
+I min utredning hade följande gjort skillnad: att mitt sätt att beskriva processer uppmärksammades innan testdata tolkades, och att konsekvent logik inte kodades som rigiditet utan att frågan ställdes. Inget av detta är en rekommendation för hur andra utredningar bör bedrivas.
