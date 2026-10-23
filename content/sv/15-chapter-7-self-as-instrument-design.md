@@ -16,13 +16,7 @@ Metoden bygger på fyra principer.
 
 ### 1. Introspektionskvalitet som datakälla
 
-Vissa individer (SCC/MLCC) kan uppvisa ovanligt stabil, detaljrik och metakognitiv introspektiv förmåga — långt över det genomsnitt som traditionella psykologiska metoder förutsätter.
-
-Deras inre data är inte enbart subjektiva i vardaglig mening, utan kan vara:
-
-- systematiskt strukturerade  
-- reproducerbara  
-- internt konsistenta  
+Jag hävdar att min egen introspektion är stabil, detaljrik och strukturerad. Det är ett påstående om reliabilitet (jag beskriver samma sak på samma sätt över tid), inte om validitet (att beskrivningen är sann). Jag kan inte pröva det senare själv.  
 
 ### 2. Longitudinell dataproduktion
 
@@ -163,7 +157,7 @@ Introspektion är traditionellt undervärderad i psykologin, ofta av rädsla fö
 - felminne  
 - rationalisering  
 
-SCC/MLCC‑profiler uppvisar dock en annan datakvalitet än normativ introspektion.
+Jag gör inget anspråk på att min introspektion är undantagen från dessa felkällor. Jag gör anspråk på att den är konsekvent, vilket är något annat.
 
 ### Regel 1: Introspektion ≠ narrativ
 
@@ -178,7 +172,7 @@ Hos SCC/MLCC är introspektion:
 
 Det är därför korrekt att behandla introspektiva utsagor som strukturerad data, inte subjektiva berättelser.
 
-### Regel 2: Stabilitet är evidens
+### Regel 2: Stabilitet är reliabilitet, inte validitet
 
 När en individ:
 
@@ -187,7 +181,7 @@ När en individ:
 - reproducerar inre mekanismer på begäran  
 - snabbt identifierar och reviderar felaktiga antaganden  
 
-… då är introspektionen en valid datakälla.
+… då är introspektionen en konsekvent datakälla. Om den också är korrekt kan bara prövas mot något jag inte har tillgång till.
 
 ### Regel 3: Divergens är datapunkt, inte fel
 
