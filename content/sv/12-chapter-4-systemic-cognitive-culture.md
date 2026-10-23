@@ -2,14 +2,14 @@
 
 ## Del II — Core Framework
 
-Systemic Cognitive Culture (SCC) är en av de mer distinkta och kliniskt relevanta kognitiva kulturerna inom Cognitive Culture Framework. Den kännetecknas av att individens primära “mentala språk” är system, flöden, beroenden, logiska regler och optimeringsprinciper. SCC är vanlig inom programutveckling, ingenjörsvetenskap, spelkultur, hög abstrakt logik, syntetiskt tänkande och forskningsorienterat problemlösande.
+Systemic Cognitive Culture (SCC) är en av de mer distinkta och kliniskt relevanta kognitiva kulturerna inom Cognitive Culture Framework. Den kännetecknas av att individens primära “mentala språk” är system, flöden, beroenden, logiska regler och optimeringsprinciper. Jag antar — utan annat underlag än min egen bakgrund — att liknande mönster kan förekomma hos andra inom programutveckling, ingenjörsvetenskap och spelkultur. Det är en gissning, inte ett prevalenspåstående.
 
-SCC är framför allt viktigt därför att personer med denna profil ofta:
+SCC beskrivs här därför att det i mitt fall ledde till:
 
-- **Diagnostisk friktion:** missförstås i traditionell diagnostik.
-- **Felklassificering:** felklassificeras som AST‑liknande.
-- **Social strategi:** överkompenserar i sociala situationer.
-- **Representation:** har atypiska känslo- och minnesrepresentationer.
+- friktion i utredningen,
+- att ytliga drag lästes som AST-liknande,
+- en tendens att överkompensera i sociala situationer,
+- atypiska känslo- och minnesrepresentationer.
 
 I CCF representerar SCC en höggradigt strukturerad variant av procedural + logisk representational mode kombinerad med deterministisk cognitive governance (se Kapitel 3; strukturprinciper i `meta/structure.md`).
 
@@ -19,7 +19,7 @@ I CCF representerar SCC en höggradigt strukturerad variant av procedural + logi
 
 SCC definieras som en kognitiv kultur där individen:
 
-- **Inre organisation:** ofta organiserar sitt inre liv som system snarare än berättelser.
+- **Inre organisation:** organiserar sitt inre liv som system snarare än berättelser.
 - **Bearbetning:** bearbetar information via flödesscheman, inte associationer.
 - **Känslor:** förstår känslor som datapunkter, inte känslotillstånd.
 - **Social kodning:** kodar sociala situationer som kontextuella system, inte interpersonella narrativ.
@@ -27,17 +27,17 @@ SCC definieras som en kognitiv kultur där individen:
 
 ### Centrala kännetecken
 
-Personer med SCC:
+Jag:
 
 1. **Pipelines:** tänker i pipelines—input → process → output.
 2. **Systemisk intuition:** kan “känna” om något är logiskt/etiskt/funktionellt fel utan att direkt kunna verbalisera det.
 3. **Relationsspråk:** använder logik som relationsspråk—empati uttrycks genom problemlösning, inte affekt.
-4. **Tidsprofil:** har snabb kontextförståelse men långsam affektetikettering—de märker vad som händer före de märker hur de känner.
+4. **Tidsprofil:** har snabb kontextförståelse men långsam affektetikettering—jag märker vad som händer före jag märker hur jag känner.
 5. **Feltolerans:** har stark tolerans för osäkerhet i system, men låg tolerans för systemfel—kaos är okej, inkonsistens är inte.
 
 ### Kliniskt exempel
 
-Vid IDA/DIVA uttrycker individen ofta:  
+Vid IDA/DIVA uttrycker individen:  
 “Jag märkte att något var fel i situationen, så jag analyserade varför och anpassade mig.”
 
 - **Traditionell tolkning:** “brist på spontan affektrespons”.
@@ -59,10 +59,10 @@ SCC innebär att individen inte primärt uppfattar världen i termer av berätte
 Där en narrativt orienterad person tänker:  
 “Hon blev arg på mig.”
 
-…tänker en SCC‑person:  
+…tänker jag:  
 “Det uppstod en mismatch i förväntningar. Jag behöver förstå systemparametrarna.”
 
-Detta behöver inte vara distansering, utan kan vara deras naturliga sätt att representera information.
+Detta behöver inte vara distansering, utan kan vara mitt naturliga sätt att representera information.
 
 ### Klinisk konsekvens
 
@@ -73,7 +73,7 @@ Systembaserad perception kan ge sken av:
 - **Rigiditet:** rigiditet.
 - **Mekanik:** social “mekaniskhet”.
 
-I SCC speglar detta ofta hur information behandlas, inte nödvändigtvis bristande social förmåga.
+I SCC speglar detta hur information behandlas, inte nödvändigtvis bristande social förmåga.
 
 ---
 
@@ -98,7 +98,7 @@ Detta sker automatiskt, omedvetet och utan ansträngning.
 ### Kliniskt exempel
 
 Intervjuaren: “Vad gjorde dig arg?”  
-SCC‑person: “Det var en inkonsekvens mellan hennes ord och handling, och systemfel triggar mig.”
+Jag: “Det var en inkonsekvens mellan hennes ord och handling, och systemfel triggar mig.”
 
 Detta är ett känsloutlåtande—det ligger bara på modalitetens språk.
 
@@ -106,7 +106,7 @@ Detta är ett känsloutlåtande—det ligger bara på modalitetens språk.
 
 ## 4.4 IF/THEN‑logik i känslomässig kodning
 
-SCC ersätter ofta affektiv heuristik med regelbaserad emotionell logik.
+SCC ersätter affektiv heuristik med regelbaserad emotionell logik.
 
 ### Exempel
 
@@ -118,12 +118,12 @@ Detta är inte en ersättning för känslor—det är individens känslospråk.
 
 ### Klinisk implikation
 
-Utredaren måste skilja mellan:
+I mitt fall hade det hjälpt om skillnaden gjordes mellan:
 
 - **Affektuttryck:** det som syns.
 - **Affektlogik:** det som faktiskt händer.
 
-Hos SCC är affektuttryck ofta lågintensivt, men affektlogiken stark.
+I mitt fall är affektuttrycket lågintensivt, men affektlogiken stark.
 
 ### Misstolkning som AST
 
@@ -181,7 +181,7 @@ SCC är en systembaserad kognitiv kultur som:
 - **Empati:** uttrycker empati genom handling snarare än affekt.
 - **Bearbetningsstil:** optimerar snarare än associerar.
 - **Minnesformat:** organiserar minnen och narrativ som system.
-- **Differential:** ofta misstolkas som AST men har helt annan etiologi.
+- **Differential:** misstolkades i mitt fall som AST, trots annan etiologi.
 
 För klinisk diagnostik innebär SCC ett behov av:
 
