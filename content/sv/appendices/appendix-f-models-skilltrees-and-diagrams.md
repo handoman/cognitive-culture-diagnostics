@@ -1,6 +1,6 @@
 # Bilaga F. Modeller  
 *Skill‑tree, systemdiagram och klassblad*  
-(RPG‑ och teknikmetaforer — pedagogiska, men med klinisk skärpa)
+(RPG‑ och teknikmetaforer — min egen självbeskrivning i det språk jag tänker i. Inte en modell för andra.)
 
 ---
 
