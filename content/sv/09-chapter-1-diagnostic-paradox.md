@@ -26,7 +26,7 @@ Detta antagande håller för majoriteten av individer i praktiken.
 
 Men det skapar en diagnostisk paradox för subgrupper vars sätt att tänka, representera information, minnas och beskriva sina upplevelser avviker från den normativa modellen — inte patologiskt, utan **arkitektoniskt**.
 
-Sådana subgrupper inkluderar bland annat:
+Jag antar att liknande profiler kan finnas hos, bland annat:
 
 Dessa profiler är inte kliniska kategorier, utan exempel på kognitiva uttrycksformer som ibland delar arkitektoniska drag.
 
