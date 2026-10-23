@@ -59,14 +59,7 @@ Detta är inte ett medicinskt utlåtande och bör inte tolkas som ett sådant.
 
 ### 2. Ingen rekonstruktion av verkliga patienter
 
-Alla kliniska exempel i monografin är:
-
-- syntetiserade  
-- kombinerade  
-- anonymiserade  
-- designade för att illustrera principer, inte reflektera specifika personer  
-
-Ingen enskild individ kan identifieras, direkt eller indirekt.
+Alla "kliniska exempel" i monografin är konstruerade av mig som illustrationer. De bygger inte på andra patienter — jag har inte tillgång till några — utan på min egen upplevelse och på hypotetiska variationer av den. De ska läsas som tankeexperiment, inte som fallmaterial.
 
 ---
 
