@@ -53,9 +53,7 @@ Detta skapade tidiga diskrepanser mellan subjektets interna kognitiva språk (sy
 
 Subjektets funktionella profil uppvisar mönster typiska för:
 
-**ADHD med dopaminberoende exekutiv funktion (DBEF)**
-
-En undergrupp som kännetecknas av:
+**“Dopaminberoende exekutiv funktion” (DBEF)** — en arbetsbeteckning jag använder för min egen profil. Det är inte ett etablerat begrepp, och “dopamin” används här som upplevelsemetafor, inte som neurokemisk mätning. Med beteckningen menar jag:
 
 - exekutiva funktioner som fungerar utmärkt vid hög dopaminfrisättning  
 - nära kollaps vid låg dopaminfrisättning  
@@ -176,22 +174,23 @@ Den pågående neuropsykiatriska utredningen genererar ett ovanligt rikt datamat
 2. Subjektet integrerar forskningslitteratur snabbare än utredningsprocessen kan bearbeta.  
 3. Subjektet identifierar metodbrister och föreslår modeller (CCF, SCC, MLCC) spontant.
 
-Journaldata hittills visar:
+Min läsning av journaldata från den pågående utredningen, som jag är part i:
 
 - **Naturligt socialt flöde**  
   (turtagning, intoning, blick, humor, korrekt mikrotolkning)
 
-- **Inga tydliga AST‑markörer**  
-  (ingen rigiditet, inga begränsande intressen, intakt Theory of Mind)
+- **AST uteslöts** via utvecklingsanamnes, skattningsinstrument och dokumenterad social funktion [ange vilka]
 
 - **Processuellt känslouttryck**  
   Känslor uttrycks som process, inte affekt — en kulturell kodningsstil, inte ett autismsymtom.
 
 - **Metakognitiv självobservation**  
-  Ofta feltolkad kliniskt som “autistisk rationalisering”.
+  I mitt fall feltolkad kliniskt som “autistisk rationalisering”.
 
 - **Exekutiv dysfunktion vid låg dopaminaktivitet**  
   Maskerad i hög‑engagemangskontexter.
+
+Jag redovisar detta för att läsaren ska veta vad CCF byggdes för att förklara: varför AST-liknande triggers uppstod trots denna uteslutning.
 
 ---
 
@@ -207,6 +206,4 @@ Subjektets neurokognitiva profil består av:
 - Avancerad och stabil kompensation  
 - Minimal AST‑konvergens trots ytliga likhetsytor  
 
-Ett sådant subjekt representerar inte en diagnosgrupp, utan snarare en **kognitiv kultur**.
-
-Det är därför single‑subject‑metod och CCF är nödvändiga för att förstå denna typ av profil.
+Subjektet representerar ingen grupp. CCF är det språk jag byggde för att förstå min egen profil; om det behövs för andra är okänt.
