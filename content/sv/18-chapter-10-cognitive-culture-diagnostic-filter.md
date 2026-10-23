@@ -2,7 +2,7 @@
 
 ## Del III — Applied Case Analysis (Single‑Subject Method)
 
-Kognitiv kultur kan fungera som ett första‑linjens filter för att reducera risken att misstolka högkognitiva ADHD‑profiler som autismspektrumtillstånd (AST).
+Detta kapitel visar hur jag använde begreppet kognitiv kultur för att förstå varför AST-hypotesen uppstod i min egen utredning.
 
 Detta kapitel beskriver hur ett sådant filter tillämpas i klinisk praxis, illustrerat genom fallmaterial, semistrukturerad kodning och analys av **misalignment‑effekter** i standardiserad screening.
 
@@ -24,7 +24,7 @@ Trots hög funktionell flexibilitet kan:
 
 … tolkas som kognitiv rigiditet, ett centralt AST‑kriterium.
 
-I SCC/MLCC rör det sig ofta om **operativ konsekvens** snarare än rigiditet.
+I SCC/MLCC rör det sig om **operativ konsekvens** snarare än rigiditet.
 
 ---
 
@@ -122,14 +122,14 @@ Samma beteende får olika tolkning beroende på tolkningsram.
 
 ### 10.3.1 Kodningsmatris
 
-| **Observerat beteende** | **DSM‑tolkning** | **CCF‑tolkning** | **Klinisk konsekvens** |
+| **Observerat beteende** | **DSM‑tolkning** | **CCF‑tolkning** | **Vad det betydde för mig** |
 |---|---|---|---|
 | Exakt, systemiserad uttrycksstil | “Formell”, “distans”, “AST‑liknande” | SCC/MLCC Representational Mode | Undviker falska AST‑positiv |
 | Snabb mönsteravläsning | “Rigid problemlösning” | Systemic Perception | Effektivitet, ej rigiditet |
 | Känslor uttrycks via struktur | “Platt affekt” | Emotional Encoding: Procedural | Korrekt empatitolkning |
 | Metakommentarer om processen | “Överintellektualisering” | MLCC default stance | Avslöjar stil, ej patologi |
 | Selektiv informationsdelning | “Bristande reciprocitet” | Relevansoptimering (SCC) | Anpassad intervjuteknik |
-| Humor och lekfull ironi | Ofta okodad | Intakt social modulering | Tydlig AST‑diskriminator |
+| Humor och lekfull ironi | Ofta okodad | Intakt social modulering | Talade mot AST i mitt fall |
 
 Denna matris utgör en kärnmekanism i CCF som differentialdiagnostiskt verktyg.
 
@@ -210,4 +210,4 @@ I fallet Christian visar filtret att:
 - logik används som uttrycksmedel, inte som undvikande  
 - introspektion är kulturell, inte patologisk  
 
-Kognitiv kultur förklarar med hög precision varför AST‑hypotesen uppstår — och varför den inte håller.
+Kognitiv kultur erbjuder en förklaring som är koherent med mitt material till varför AST-hypotesen uppstod. Att den inte höll avgjordes av utredningens instrument, inte av CCF.
