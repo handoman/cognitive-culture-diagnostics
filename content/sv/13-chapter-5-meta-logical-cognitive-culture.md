@@ -6,15 +6,9 @@ Meta‑Logical Cognitive Culture (MLCC) är en avancerad kognitiv kultur där in
 
 MLCC representerar ett kognitivt *dubbelplan*, där metakognition, processmodellering och realtidsövervakning av mentala flöden utgör basinställningen.
 
-MLCC är den mer komplexa och diagnostiskt svårtolkade kognitiva kultur som hittills identifierats inom Cognitive Culture Framework (CCF). Den förekommer ofta hos:
+MLCC är den mer komplexa och diagnostiskt svårtolkade kognitiva kultur som hittills identifierats inom Cognitive Culture Framework (CCF). Jag kan bara belägga den hos mig själv. Om den förekommer hos andra vet jag inte.
 
-- **Högkognitiva systemtänkare**
-- **Personer med lång erfarenhet av felsökning, programmering eller teknisk analys**
-- **Individer med stark introspektiv disciplin**
-- **Analytiker, forskare, designers och strategiska ledare**
-- **Personer med ovanligt starka kompenserande exekutiva subsystem**
-
-Det är också den kognitiva kultur som oftast misstolkas som AST, särskilt hos individer som samtidigt uppvisar ADHD‑relaterad dopamininstabilitet.
+Det är i mitt fall det lager som tydligast gav upphov till AST-liknande ytfenomen i kombination med ADHD-relaterad dopamininstabilitet.
 
 MLCC ska förstås som ett **tolkningslager**, inte som en diagnos eller ett symtomkluster (se `meta/scope-and-non-goals.md`).
 
@@ -42,14 +36,14 @@ Det kan förstås som en **driftsform**.
    - **Stack 2:** meta‑analys av processen, prediktion, felsökning, beteendejustering  
 
 2. **Processprioritering framför narrativitet**  
-   Information organiseras ofta i logiska kedjor snarare än berättelser eller minnesbilder.
+   Information organiseras i logiska kedjor snarare än berättelser eller minnesbilder.
 
 3. **Emotionell logik 2.0**  
    Känslor tolkas via meta‑modeller, inte via upplevda tillstånd.  
    Exempel: *“Det ligger något latent i mig som jag behöver inspektera, för det skaver i systemet.”*
 
 4. **Högupplöst monitorering av andra**  
-   Personer med MLCC är ofta mycket skickliga på:
+   Jag är mycket skicklig på:
    - att tolka subtila signaler  
    - att upptäcka diskrepanser  
    - att känna av intern osäkerhet hos andra  
@@ -79,7 +73,7 @@ Detta behöver inte vara ett försvarsbeteende, utan kan vara den naturliga drif
 
 ### Klinisk manifestation
 
-I IDA/DIVA/WAIS uppvisar individen ofta:
+I IDA/DIVA/WAIS uppvisar individen:
 
 - **Konsekventa, logiska och genomarbetade svar**
 - **Spontana men hyperstrukturerade resonemang**
@@ -122,7 +116,7 @@ De två lagren interagerar på millisekundnivå.
 **Intervjuare:**  
 “Vad upplever du i sociala situationer?”
 
-**MLCC‑personens interna process:**
+**Min interna process:**
 - **Stack 1:** “Svara korrekt och relevant.”
 - **Stack 2:** “Vilken definition av social situation avser han? Vad är syftet? Han söker ett exempel. Undvik överladdning. Strukturera.”
 
@@ -162,7 +156,7 @@ Drivkrafterna är dock fundamentalt annorlunda.
 
 ---
 
-## 5.5 Varför MLCC ofta misstas för AST
+## 5.5 Varför MLCC misstas för AST
 
 MLCC delar flera ytliga likheter med AST, trots helt olika etiologi.
 
@@ -202,15 +196,15 @@ Meta‑Logical Cognitive Culture (MLCC):
 - **Driftsform:** avancerad kognitiv struktur med permanent aktiverad metakognition  
 - **Mekanism:** bygger på dubbelstackad kognition och realtidsanalys  
 - **Affekt:** bearbetar känslor som processlogik, inte narrativ  
-- **Diagnostik:** ger svar som ofta misstolkas som AST‑liknande  
+- **Diagnostik:** gav i mitt fall svar som misstolkades som AST‑liknande  
 - **Profil:** kännetecknas av extrem intern koherens och hög abstraktionsnivå  
 
 ### Kliniska implikationer
 
-För diagnostiken innebär MLCC att klinikern behöver:
+I mitt fall hade det hjälpt om utredningen:
 
-- **Förstå meta‑logiskt språkbruk**
-- **Identifiera double‑stack reasoning i svar**
-- **Separera AST‑liknande output från AST‑typisk funktion**
-- **Ställa frågor riktade mot process, inte fenomen**
-- **Bedöma affektsystem utifrån affektlogik, inte affektstil**
+- **förstått meta‑logiskt språkbruk**
+- **identifierat double‑stack reasoning i svaren**
+- **separerat AST‑liknande output från AST‑typisk funktion**
+- **ställt frågor riktade mot process, inte fenomen**
+- **bedömt affektsystemet utifrån affektlogik, inte affektstil**
