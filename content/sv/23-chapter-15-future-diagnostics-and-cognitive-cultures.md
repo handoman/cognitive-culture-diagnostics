@@ -133,42 +133,9 @@ Målet är inte att göra testen mer engagerande — utan mer **korrekta**.
 
 ---
 
-## 15.4 Systemutveckling 2025–2040: fyra faser
-
-### Fas 1 (2025–2030): Integrationsfasen
-
-- kliniker börjar screena för kognitiv kultur  
-- AI används för textanalys i forskningskontext  
-- DSM kompletteras informellt med processmoduler  
-- SCC/MLCC införs i differentialdiagnostisk utbildning  
-
-### Fas 2 (2030–2033): Standardiseringsfasen
-
-- nationella riktlinjer inför processkartläggning  
-- självskattningar får adaptiva versioner  
-- WAIS kompletteras med processanalytiska tillägg  
-- IDA uppdateras med domän för kognitiv struktur  
-
-### Fas 3 (2033–2037): Systemarkitekturfasen
-
-- AI‑modeller tränas på stora dataset av kognitiva kulturer  
-- prediktiva modeller överträffar statiska formulär  
-- CCF formaliseras som diagnostisk axel  
-
-### Fas 4 (2037–2040): Konsolideringsfasen
-
-- DSM‑6 eller motsvarande integrerar processdimensioner  
-- diagnostik sker i tre lager:  
-  1. kategori (DSM)  
-  2. funktion (exekutiva profiler)  
-  3. arkitektur (kognitiv kultur)  
-- kliniska system blir dynamiska snarare än statiska  
-
----
-
 ## 15.5 Slutsats: mot en adaptiv neuropsykiatri
 
-Neuropsykiatrin rör sig mot en framtid där:
+Om liknande mönster visar sig finnas hos fler, skulle det tala för en neuropsykiatri där:
 
 - diagnoser är mer processbaserade än kategoribaserade  
 - variation förstås som arkitektur, inte avvikelse  
