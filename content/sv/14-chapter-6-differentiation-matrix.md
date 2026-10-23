@@ -2,17 +2,7 @@
 
 ## Del II — Core Framework
 
-Detta kapitel presenterar en systematisk jämförelse mellan tre profiler som ofta sammanblandas i klinisk vardag:
-
-1. **AST** (Autismspektrumtillstånd)  
-2. **ADHD + SCC** (Systemic Cognitive Culture)  
-3. **ADHD + MLCC** (Meta‑Logical Cognitive Culture)
-
-I DSM‑strukturerade intervjuer kan alla tre producera liknande output — logiska svar, reducerad spontan affekt, fokus på detaljer och tydlig analys.
-
-Orsakerna, mekanismerna och funktionerna skiljer sig dock fundamentalt.
-
-Därför introduceras här en **Differentiation Matrix**: ett tolkningsverktyg som minskar risken för falska AST‑indikationer hos individer som i själva verket har ADHD kombinerat med en systemisk eller meta‑logisk kognitiv kultur.
+Detta kapitel ställer upp hur mina svar lästes i utredningen mot hur jag själv beskriver processen bakom dem. Matrisen är inte ett differentieringsverktyg för andra; den är en systematisk redovisning av en enskild mismatch.
 
 Kapitlets funktion är tillämpad och kompletterande, inte normativ (se `meta/scope-and-non-goals.md`).
 
@@ -59,29 +49,28 @@ Därför kan en dedikerad, systematisk differentieringsmodell vara värdefull.
 
 Nedan följer den centrala jämförelsetabellen.
 
-### Differentiation Matrix — AST vs ADHD + SCC/MLCC
+### Differentiation Matrix — hur svaren lästes vs. hur jag beskriver processen
 
-| **Domän** | **AST** | **ADHD + SCC** | **ADHD + MLCC** |
-|---|---|---|---|
-| **Social intuition** | Begränsad, mekanisk | Hög intuition, snabb kontextläsning | Extremt hög kontextmodellering + meta‑analys |
-| **Affektuttryck** | Reducerat p.g.a. neurobiologi | Filtrerat p.g.a. systemoptimering | Filtrerat p.g.a. metakognitiv övervakning |
-| **Flexibilitet** | Låg, rigiditet central | Hög, situativ anpassning | Mycket hög, strategisk kontroll |
-| **Intresseprofil** | Djupa specialintressen | Systemiska intressen | Meta‑intressen (processer, logik) |
-| **Kommunikation** | Bokstavlig, direkt | Effektivitetsbaserad direkthet | Precision via meta‑logik |
-| **Spontanitet** | Begränsad | Dopaminberoende | Medvetet reglerad |
-| **Sensorik** | Ofta över/underkänslighet | Minimal eller dopaminmodulerad | Analyseras, men sällan stör |
-| **Emotionell stil** | Svårt att mentalisera affekt | Känner → analyserar | Analyserar → känner |
-| **Social motivation** | Varierande/låg | Hög när kontext kräver | Strategisk, målinriktad |
-| **Maskering** | Imitativ | Logisk (systemmaskering) | Metakognitiv (modellmaskering) |
-| **Grunddrivkraft** | Förutsägbarhet | Optimering | Koherens & systemharmoni |
+| **Domän** | **Hur mina svar lästes** | **Hur jag beskriver processen bakom** |
+|---|---|---|
+| **Social intuition** | Lästes som begränsad, mekanisk | I min utredning uppfattades jag ha hög kontextläsning, med ett ytterligare meta-analytiskt lager ovanpå |
+| **Affektuttryck** | Lästes som reducerat, kopplat till neurobiologi | Beskriver jag själv som filtrerat genom system- och metakognitiv bearbetning |
+| **Flexibilitet** | Lästes som låg, med rigiditet som kärndrag | Beskriver jag själv som hög — både situativ anpassning och strategisk kontroll |
+| **Intresseprofil** | Lästes som djupa specialintressen | Beskriver jag själv som systemiska intressen och meta-intressen (processer, logik) |
+| **Kommunikation** | Lästes som bokstavlig, direkt | Beskriver jag själv som effektivitetsbaserad direkthet och precision via meta-logik |
+| **Spontanitet** | Lästes som begränsad | Beskriver jag själv som dopaminberoende och medvetet reglerad |
+| **Emotionell stil** | Lästes som svårighet att mentalisera affekt | Beskriver jag själv som: känner och analyserar, i varierande ordning |
+| **Social motivation** | Lästes som varierande/låg | Beskriver jag själv som hög när kontext kräver det, och strategisk |
+| **Maskering** | Lästes som imitativ | Beskriver jag själv som logisk och metakognitiv maskering |
+| **Grunddrivkraft** | Lästes som förutsägbarhet | Beskriver jag själv som optimering, koherens och systemharmoni |
 
 Begrepp som *maskering*, *affekt* och *kompensation* används här i projektspecifik mening (se `meta/terminology-policy.md`).
 
 ---
 
-## 6.3 Vad psykologer ofta misstolkar
+## 6.3 Vad som misstolkades i min utredning
 
-Följande är de sex vanligaste kliniska misstagen.
+Följande är sex tolkningar som uppstod i min utredning och som jag i efterhand uppfattar som mismatch.
 
 ### 1. “Logiskt språk = AST”
 
@@ -103,7 +92,7 @@ Affekt kan reduceras av olika orsaker:
 - **SCC:** känslor behandlas som processvariabler  
 - **MLCC:** metakognitiv filtrering före uttryck  
 
-Ytligt likt — men mekaniskt ofta olika.
+Ytligt likt — men mekaniskt olika.
 
 ---
 
@@ -176,28 +165,27 @@ Intervjuteknik måste anpassas därefter.
 
 ## 6.5 Målsättning: undvika falska AST‑positiv
 
-För att minska risken för felklassificering behöver klinikern:
+I mitt fall hade följande gjort skillnad:
 
-1. **Skilja affektstil från affektfunktion**  
-   MLCC kan uttrycka minimalt men känna starkt.
+1. **Att min affektstil skilts från min affektfunktion**  
+   Jag kunde uttrycka minimalt men känna starkt.
 
-2. **Bedöma social perception, inte social output**  
-   SCC/MLCC läser ofta social kontext mycket väl.
+2. **Att social perception bedömts, inte bara social output**  
+   Jag läste social kontext väl, även om det inte alltid syntes utåt.
 
-3. **Ställa processfrågor, inte fenomenfrågor**  
+3. **Att processfrågor ställts, inte bara fenomenfrågor**  
    - “Hur visste du det?” → avslöjar kognitiv kultur  
    - “Vad kände du då?” → riskerar sammanblandning  
 
-4. **Observera anpassningsmönster**  
-   - **AST:** rigid  
+4. **Att anpassningsmönster observerats**  
    - **SCC:** adaptiv  
    - **MLCC:** meta‑adaptiv  
 
-5. **Testa narrativförmåga utan tidskrav**  
-   MLCC producerar narrativ när tid ges för modulering.
+5. **Att narrativförmåga testats utan tidskrav**  
+   Jag kunde producera narrativ när tid gavs för modulering.
 
-6. **Identifiera dopaminlogik (ADHD) som grundmotor**  
-   Variabel ork, hyperfokus och regulatoriska svårigheter talar för ADHD + SCC/MLCC snarare än AST.
+6. **Att dopaminlogik (ADHD) identifierats som grundmotor**  
+   Variabel ork, hyperfokus och regulatoriska svårigheter talade i mitt fall för ADHD + SCC/MLCC snarare än AST.
 
 ---
 
@@ -213,11 +201,6 @@ AST, SCC och MLCC kan ge liknande klinisk output men skiljer sig fundamentalt i:
 - emotionell mekanik  
 
 SCC och MLCC är inte AST-tillstånd, även om vissa uttryck kan likna AST ytligt.  
-De är kognitiva kulturer som DSM aldrig lärde sig identifiera.
+De är beteckningar jag använder för att beskriva min egen kognition; om de har relevans utanför mitt fall är oprövat.
 
-Differentiation Matrix möjliggör för kliniker att:
-
-- undvika falska AST‑hypoteser  
-- korrekt identifiera avancerade ADHD‑profiler  
-- förstå varför vissa patienter inte “passar” i DSM‑mallen  
-- skapa rätt diagnos → rätt behandling → bättre livskvalitet
+Matrisen gör det möjligt för mig att redovisa var mismatch uppstod, och kan möjligen ge en utredare ett språk att pröva i liknande situationer.
