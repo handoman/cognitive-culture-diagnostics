@@ -1,7 +1,7 @@
-# Bilaga B. Kartläggningsmall  
-*CCF‑Sheet*
+# Bilaga B. Min egen profil  
+*Ifylld CCF‑sheet för subjektet*
 
-En klinisk arbetsmall för screening eller fördjupad bedömning i relevanta fall.
+Nedan är mallen ifylld för mig själv. Den är inte avsedd att fyllas i för andra och har inga ankarexempel för skalstegen.
 
 ---
 
@@ -60,26 +60,3 @@ Primära styrsystem (rangordna 1–3):
 - ☐ Impuls  
 - ☐ Systemmodell  
 
----
-
-## 5. Diagnostiska implikationer
-
-### Möjlig risk för AST‑felbedömning
-
-- ☐ Låg narrativitet  
-- ☐ Hög processkonsekvens  
-- ☐ Affekt uttrycks analytiskt  
-- ☐ Systemstyrd respons  
-- ☐ “Rigiditet” = operativ konsekvens  
-
-### Möjlig indikation för SCC
-
-- ☐ Flödesschema‑tänkande spontant  
-- ☐ IF/THEN‑resonemang i känslogenomgång  
-- ☐ Livshändelser återges som system  
-
-### Möjlig indikation för MLCC
-
-- ☐ Metakognitivt språk  
-- ☐ Dubbla tankelinjer  
-- ☐ Självkorrigering i realtid  
