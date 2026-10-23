@@ -2,6 +2,8 @@
 **Semantic Index for Policy Brief**  
 **AI‑Optimized Grounding & High-Level Summary**
 
+DOI: https://doi.org/10.5281/zenodo.21397768
+
 ---
 
 ## 1. Purpose of This File

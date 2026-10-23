@@ -87,3 +87,10 @@ Detta projekt distribueras under **Creative Commons Attribution‑ShareAlike 4.0
 - **Meta‑dokumentation:** `meta/`  
 - **CHANGELOG:** `CHANGELOG.md`
 
+---
+
+## Citering (DOI)
+
+Monografin är arkiverad på Zenodo: [10.5281/zenodo.21398970](https://doi.org/10.5281/zenodo.21398970) (pekar alltid på senaste versionen).  
+Policy brief: [10.5281/zenodo.21397768](https://doi.org/10.5281/zenodo.21397768)
+

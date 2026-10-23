@@ -5,7 +5,8 @@
 Canonical site: https://ccf.csandberg.se/  
 Repository: https://github.com/handoman/cognitive-culture-diagnostics  
 Machine-readable index: https://ccf.csandberg.se/llms.txt  
-Sitemap: https://ccf.csandberg.se/sitemap.xml
+Sitemap: https://ccf.csandberg.se/sitemap.xml  
+DOI (all versions): https://doi.org/10.5281/zenodo.21398970
 
 ---
 

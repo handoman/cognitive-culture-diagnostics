@@ -1,4 +1,5 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21398970.svg)](https://doi.org/10.5281/zenodo.21398970)
 
 # Cognitive Culture Diagnostics  
 A monograph on cognitive architecture in neuropsychiatric assessment
@@ -117,3 +118,14 @@ See the `LICENSE` file for full text.
 
 Author: **Christian Sandberg**  
 Location: **Visby, Sweden**
+
+---
+
+## Citation
+
+This monograph is archived on Zenodo. The DOI above resolves to the latest version; cite it for "all versions" references, or use a version‑specific DOI (shown on each version's Zenodo page) to cite a particular release.
+
+| Work | DOI |
+|---|---|
+| Cognitive Culture Diagnostics (monograph, all versions) | [10.5281/zenodo.21398970](https://doi.org/10.5281/zenodo.21398970) |
+| Policy Brief | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21397768.svg)](https://doi.org/10.5281/zenodo.21397768) |

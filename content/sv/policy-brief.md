@@ -6,6 +6,7 @@
 **Publiceringsår:** 2026  
 **Version:** 1.1.0  
 **Kontakt:** csandberg.ghcontact@ecosandberg.se  
+**DOI:** [10.5281/zenodo.21397768](https://doi.org/10.5281/zenodo.21397768)  
 
 **Relaterad monografi:**  
 *Cognitive Culture Diagnostics – A Theoretical and Clinical Framework for Understanding Cognitive Architecture*  
