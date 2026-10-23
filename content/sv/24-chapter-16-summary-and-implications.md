@@ -129,7 +129,7 @@ När intervjuformen matchar kognitiv kultur:
 - minskar feltolkning  
 - stärks den terapeutiska alliansen  
 
-Detta har demonstrerats tydligt i det aktuella caset.
+Så upplevde jag det i mitt eget fall.
 
 ---
 
@@ -157,60 +157,12 @@ Caset pekar mot behov av:
 
 ---
 
-### 3. Transparenta fallstudier har hög intern validitet
+### 3. Transparenta fallstudier är granskbara
 
-Detta arbete visar att icke‑anonymitet kan stärka validitet genom:
-
-- borttagande av artificiell separation mellan forskare och objekt  
-- kontinuerlig tillgång till introspektiv data  
-- replikationsbar logik via explicit metod  
-
----
-
-## 16.5 Samhälleliga konsekvenser
-
-### 1. Ökad rättvisa i neuropsykiatrisk diagnostik
-
-När kognitiva kulturer integreras:
-
-- minskar risken för felbedömning av systemtänkare  
-- fler individer får korrekt diagnos tidigt  
-- resurser används mer effektivt  
-
----
-
-### 2. Större acceptans för kognitiv diversitet
-
-Ett etablerat språk för SCC och MLCC kan:
-
-- minska stigmatisering  
-- ge skolor och arbetsplatser bättre verktyg  
-- synliggöra individers faktiska styrkor  
-
----
-
-### 3. Dynamiska och individanpassade stödsystem
-
-Framtida stöd och behandling kan:
-
-- anpassas efter kognitiv arkitektur  
-- skräddarsys efter processprofil  
-- optimeras i realtid utifrån funktion  
-
----
-
-### 4. Etisk uppgradering av diagnostikens syn på variation
-
-Kognitiva kulturer uppmanar psykologin att:
-
-- se variation som normalitet  
-- fokusera på arkitektur snarare än “fel”  
-- erkänna att verktygen ibland är begränsningen  
+Detta arbete är skrivet med öppet subjekt för att göra det granskbart. Det är ett argument för spårbarhet, inte för validitet.
 
 ---
 
 ## Avslutande reflektion
 
-Detta fall visar att när diagnostiken möter en kognitiv kultur den inte är byggd för, riskerar **modellen** snarare än **individen** att bli otillräcklig.
-
-Cognitive Culture Framework är ett första steg mot en mer rättvis, precis och epistemologiskt hållbar neuropsykiatri.
+I mitt fall uppstod friktion mellan mitt sätt att beskriva mig själv och de instrument som användes. CCF är mitt försök att sätta ord på den friktionen. Om orden är användbara för någon annan är det en fråga jag inte kan besvara.

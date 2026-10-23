@@ -202,5 +202,5 @@ CCF kartlägger individen längs fyra skalor (RM, PA, EE, CG) med subskalor per 
 
 - CCF ger ett ”OS‑lager” under NP‑diagnostiken.
 - Det kompletterar men ersätter inte DSM.
-- Det gör diagnostiken kulturkänslig på ett sätt som tidigare inte funnits.
-- Det förklarar varför individer som du ofta feltolkas utan att något egentligen är fel.
+- Det ger ett vokabulär för en dimension som, i mitt fall, saknades i utredningen.
+- Det är mitt försök att förklara varför jag feltolkades utan att något egentligen var fel.

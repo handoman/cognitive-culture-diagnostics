@@ -13,7 +13,7 @@ Systemic Cognitive Culture (SCC) och Meta‑Logical Cognitive Culture (MLCC) rep
 
 Dessa profiler kan riskera att både överskattas (som högfungerande AST) och underskattas (som normativt resonemang), beroende på hur intervjun genomförs.
 
-Det är därför avgörande att psykologen använder ett intervjuformat som:
+Det som fungerade för mig var ett intervjuformat som:
 
 - matchar subjektets kognitiva kultur  
 - undviker att trigga metaanalys eller kompensation  
@@ -201,8 +201,10 @@ Detta minskar behovet av översättning till “normalläge”.
 - “Vilken funktion hade din reaktion i den situationen?”  
 - “Vad förändrades i dig när X hände?”  
 - “Vilken del av systemet aktiverades först?”  
+- “Beskriv hur din inre process såg ut i tre steg…”  
+- “Vad gick online först?”  
 
-Dessa frågor aktiverar svar **inifrån**, inte **uppifrån**.
+Dessa frågor aktiverar svar **inifrån**, inte **uppifrån**. Dessa formuleringar är hämtade från vad som fungerade i min egen utredning.
 
 ---
 
@@ -247,7 +249,4 @@ För att intervjua SCC‑ och MLCC‑profiler krävs:
 
 SCC/MLCC är inte svårintervjuade i sig — men kan bli feltolkade när verktygen inte matchar deras kognitiva stil.
 
-Kliniker som tillämpar detta kapitel:
-
-1. Ökar validiteten i ADHD/AST‑differentiering  
-2. Minskar kompensationsnivån hos profiler där kompensationen annars är som starkast
+Om någon annan känner igen sig i kapitlet kan det möjligen ge ett språk att ta med till en utredning. Några effekter på validitet eller kompensation hos andra kan jag inte uttala mig om.

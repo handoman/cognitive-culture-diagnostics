@@ -1,36 +1,36 @@
 # Bilaga E. Patterns of Misalignment  
-*Kliniska fallgropar*
+*Fem ställen där mina svar lästes annorlunda än jag menade dem*
 
 ---
 
 ## Fallgrop 1: “Rigiditet”
 
-- AST: behov av identisk struktur, svårighet med förändring  
-- SCC/MLCC: effektiv algoritm som återanvänds  
+- Lästes som: behov av identisk struktur, svårighet med förändring  
+- Min beskrivning: effektiv algoritm som återanvänds  
 
 ---
 
 ## Fallgrop 2: “Affektfattighet”
 
-- AST: kan innebära svårigheter att läsa eller visa affekt  
-- SCC: affekt uttrycks som analys  
+- Lästes som: svårigheter att läsa eller visa affekt  
+- Min beskrivning: affekt uttrycks som analys  
 
 ---
 
 ## Fallgrop 3: “Svårt med spontant narrativ”
 
-- AST: självbiografiska minnessvårigheter  
-- SCC/MLCC: narrativ är ofta ett sekundärt språk  
+- Lästes som: självbiografiska minnessvårigheter  
+- Min beskrivning: narrativ är ofta ett sekundärt språk  
 
 ---
 
 ## Fallgrop 4: “Sociala missar”
 
-- AST: bristande intuitiv social karta  
-- SCC: överanalytisk social modul  
+- Lästes som: bristande intuitiv social karta  
+- Min beskrivning: överanalytisk social modul  
 
 ---
 
 ## Fallgrop 5: “Intellektualisering”
 
-Affekt som kodas via analys kan ibland misstolkas som undvikande.
+Min affekt, kodad via analys, misstolkades ibland som undvikande.

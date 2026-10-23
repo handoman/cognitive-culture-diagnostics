@@ -82,7 +82,7 @@ I praktiken är detta MLCC:s **default operating mode** (se Kapitel 5).
 
 ## 9.2 IDA — Varför vissa frågor fungerar bättre
 
-IDA har visat sig vara det mest träffsäkra instrumentet för subjektet, av tydliga CCF‑skäl.
+IDA var det instrument jag upplevde som mest träffande. Jag tolkar det genom CCF nedan, men noterar att det också kan bero på att IDA:s format helt enkelt passade min svarsstil — vilket inte är samma sak som att instrumentet var mer validt.
 
 ### 9.2.1 Rätt representational mode aktiveras
 
@@ -215,13 +215,13 @@ Det mest informativa materialet framträder i samtalets mikrodynamik.
 
 Subjektet:
 
-- läser mikrosignaler korrekt  
-- intonar adaptivt  
-- skiftar sociala nivåer fritt  
-- följer turtagning exakt  
-- uttrycker humor och lekfullhet  
+- läste mikrosignaler korrekt  
+- intonade adaptivt  
+- skiftade sociala nivåer fritt  
+- följde turtagning exakt  
+- uttryckte humor och lekfullhet  
 
-Detta ligger inte i linje med typiska AST‑kriterier.
+Detta låg inte i linje med typiska AST‑kriterier.
 
 ---
 
@@ -234,41 +234,41 @@ Vid möte med:
 - systemiserat språk  
 - exakt formulerade resonemang  
 
-… aktiveras ofta heuristiken:  
+… aktiverades i min utredning heuristiken:  
 *“Detta liknar AST‑högfunktion.”*
 
-Det kan likna AST ytligt, men funktionellt skiljer det sig..
+Det kunde likna AST ytligt, men funktionellt skilde det sig.
 
-Här uppstår den diagnostiska paradoxen:  
-det som är styrka i SCC/MLCC läses som brist i DSM‑språk.
+Här uppstod den diagnostiska paradoxen:  
+det som var styrka i SCC/MLCC lästes som brist i DSM‑språk.
 
 ---
 
 ### 9.4.3 Mikrodynamiska exempel
 
-Psykologen kan:
+Psykologen kunde:
 
 - tolka låg affekt i språket som affektbrist  
 - missa affekt i intention, timing och social modulering  
 - tolka precision som rigiditet  
 - tolka analys som distans  
 
-SCC/MLCC följer dock en annan modell:
+Mitt sätt följde dock en annan modell:
 
-- affekt uttrycks i struktur  
+- affekt uttrycktes i struktur  
 - inte i lingvistisk färgning  
 
 ---
 
 ### 9.4.4 Asymmetrisk interaktion
 
-Psykologen använder DSM‑språk.  
-Subjektet använder systemiskt/analytiskt språk.
+Psykologen använde DSM‑språk.  
+Subjektet använde systemiskt/analytiskt språk.
 
-Översättning sker — men parterna talar olika dialekter.
+Översättning skedde — men parterna talade olika dialekter.
 
-Detta är inte konflikt.  
-Det är **kognitiv kulturkrock**.
+Detta var inte konflikt.  
+Det var **kognitiv kulturkrock**.
 
 ---
 
@@ -283,6 +283,4 @@ SCC och MLCC påverkar diagnostiska möten genom:
 - underprestation i dopaminberoende uthållighetsmått  
 - ytliga likheter med AST trots intakt social funktion  
 
-Det kliniska problemet är inte att CCF‑profiler är svåra att bedöma.
-
-Problemet är att instrumenten är byggda för en annan sorts hjärna.
+Min hypotes är inte att jag var svår att bedöma, utan att instrumenten förutsatte ett svarsformat jag inte har.

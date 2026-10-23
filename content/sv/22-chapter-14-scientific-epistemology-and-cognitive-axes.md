@@ -88,17 +88,16 @@ Det är **tankens interna arkitektur**.
 
 ### 14.3.2 Kliniska problem som driver paradigmskiftet
 
-Följande mönster återkommer systematiskt i klinisk praxis:
+Följande mönster uppstod i min utredning; jag misstänker, utan belägg, att de kan förekomma hos fler:
 
 - analytiska ADHD‑profiler misstolkas som AST  
 - högintellektuell kompensation maskerar funktionsnedsättning  
 - systemtänkare kodas fel i intervjubaserade instrument  
 - narrativsvaga men socialt kompetenta individer hamnar i fel diagnoskorridor  
-- SCC/MLCC‑profiler saknar adekvat språk i standardiserade verktyg  
+- min profil saknade adekvat språk i standardiserade verktyg  
 - medicinering utvärderas på beteende snarare än kognition  
 
-Dessa problem är inte marginella.  
-De kan vara **förutsägbara konsekvenser** av att DSM saknar en axel för kognitiv arkitektur.
+Om de förekommer hos fler skulle de kunna vara konsekvenser av att DSM saknar en axel för kognitiv arkitektur. Det är en hypotes.
 
 ---
 
@@ -164,4 +163,4 @@ Cognitive Culture Framework bidrar med:
 
 Vetenskapligt framsteg sker ofta när ramen inte längre rymmer datan.
 
-Och datan från SCC‑ och MLCC‑profiler ryms inte alltid i dagens ramverk.
+Och datan från min profil ryms inte alltid i dagens ramverk.
