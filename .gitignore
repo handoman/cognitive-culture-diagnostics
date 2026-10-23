@@ -1,0 +1,3 @@
+# Local/one-off build artifacts (e.g. PDF export pipeline for Zenodo).
+# These are generated, not source — not meant to be version-controlled.
+/export/
